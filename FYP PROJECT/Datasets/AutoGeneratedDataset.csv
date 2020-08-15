@@ -1,0 +1,2001 @@
+Age,Gender,Height (centimeters),Weight (Kg),Physical Activities,Life Style (Smoking),Member Diabetic,Blood Pressure,Glucose Level (Random mg/dl),BMI,Diagnoses,Severity
+25,Female,152,55,Moderate,No,None,Very High,260,23.8,Diabetic,59.0
+25,Female,150,65,Moderate,No,Mother,Normal,285,28.9,Diabetic,64.0
+79,Female,150,45,Low,No,Mother,High,125,20.0,Non-diabetic,26.0
+49,Female,168,40,Moderate,No,Mother,Normal,255,14.2,Diabetic,69.0
+28,Male,180,70,Moderate,No,Mother;Father,Normal,165,21.6,Prediabetic,47.5
+58,Female,155,60,Moderate,No,Mother,Normal,160,25.0,Prediabetic,43.0
+40,Male,152,50,Moderate,No,None,Very High,255,21.6,Diabetic,59.0
+70,Other,170,60,Low,No,Mother,High,180,20.8,Prediabetic,51.0
+46,Female,157,60,High,No,Mother,Normal,170,24.3,Prediabetic,44.0
+49,Female,155,80,Moderate,No,None,Normal,125,33.3,Non-diabetic,9.0
+22,Female,173,60,Moderate,No,None,Normal,215,20.0,Diabetic,55.0
+46,Male,152,95,Moderate,No,None,Very High,290,41.1,Diabetic,63.0
+73,Male,165,70,Moderate,No,None,Normal,180,25.7,Prediabetic,34.0
+28,Female,191,70,Low,No,None,Very High,300,19.2,Diabetic,62.0
+61,Female,170,100,Moderate,No,None,Normal,155,34.6,Prediabetic,35.0
+34,Male,180,85,Moderate,No,Mother;Sister,High,305,26.2,Diabetic,70.75
+79,Female,147,80,Moderate,No,Father,Normal,255,37.0,Diabetic,67.5
+73,Female,173,55,Moderate,No,Father,Elivated,255,18.4,Diabetic,67.5
+58,Male,183,40,Low,No,Mother,Elivated,250,11.9,Diabetic,72.0
+37,Female,173,75,Moderate,Yes,Mother,Very High,250,25.1,Diabetic,73.0
+31,Female,165,100,Moderate,No,None,Normal,125,36.7,Non-diabetic,5.0
+73,Female,193,60,Moderate,No,Father,Normal,80,16.1,Non-diabetic,17.5
+70,Female,150,90,Moderate,No,Father;Mother;Sister;Brother,Elivated,190,40.0,Prediabetic,60.0
+55,Female,155,65,Moderate,Yes,Father,Normal,95,27.1,Non-diabetic,20.5
+73,Female,157,55,Moderate,No,Mother,High,165,22.3,Prediabetic,48.0
+58,Female,191,85,Moderate,No,None,Elivated,80,23.3,Non-diabetic,9.0
+55,Male,163,75,Moderate,Yes,Father,High,130,28.2,Non-diabetic,23.5
+52,Female,165,55,Low,No,None,High,130,20.2,Non-diabetic,15.0
+64,Female,147,75,Low,No,Sister,High,235,34.7,Diabetic,69.75
+31,Male,180,40,Low,No,None,High,295,12.3,Diabetic,61.0
+34,Other,191,55,Not at All,No,Father;Mother;Brother,Normal,90,15.1,Non-diabetic,31.25
+70,Male,150,95,Moderate,No,Father,Normal,100,42.2,Non-diabetic,17.5
+37,Female,155,50,Not at All,Yes,Mother,Very High,255,20.8,Diabetic,79.0
+64,Male,173,60,Low,No,Father;Mother;Sister;Brother,Elivated,95,20.0,Non-diabetic,38.0
+22,Female,173,70,Moderate,No,None,Very High,225,23.4,Diabetic,59.0
+79,Male,193,85,Not at All,Yes,None,Normal,145,22.8,Prediabetic,45.0
+79,Male,191,90,High,No,None,Very High,225,24.7,Diabetic,64.0
+43,Female,163,65,High,No,None,Normal,230,24.5,Diabetic,59.0
+73,Male,147,90,Not at All,No,Mother,Extremely High,210,41.6,Diabetic,80.0
+31,Male,160,100,Low,No,None,High,170,39.1,Prediabetic,36.0
+37,Female,152,85,Low,Yes,Mother,Normal,85,36.8,Non-diabetic,23.0
+31,Male,191,85,Moderate,No,Father,High,140,23.3,Prediabetic,40.5
+22,Male,168,80,Low,No,None,Normal,100,28.3,Non-diabetic,7.0
+46,Female,188,80,Moderate,No,None,Normal,135,22.6,Non-diabetic,9.0
+31,Female,173,90,Low,No,Mother,Normal,250,30.1,Diabetic,68.0
+79,Female,175,65,Low,No,None,Normal,255,21.2,Diabetic,63.0
+58,Male,165,40,Low,No,Mother,High,115,14.7,Non-diabetic,25.0
+31,Female,168,60,Moderate,No,Mother,High,115,21.3,Non-diabetic,18.0
+34,Male,155,70,Low,Yes,Father,Normal,185,29.1,Prediabetic,44.5
+34,Male,150,40,Low,Yes,None,Extremely High,110,17.8,Non-diabetic,18.0
+25,Male,185,75,Moderate,No,Mother,Normal,295,21.9,Diabetic,65.0
+55,Male,168,80,Moderate,No,Father,Normal,300,28.3,Diabetic,65.5
+34,Male,163,95,Moderate,No,Mother;Father,High,80,35.8,Non-diabetic,25.5
+61,Male,150,80,Low,No,None,High,280,35.6,Diabetic,66.0
+31,Female,152,70,High,No,Father;Mother;Sister;Brother,High,150,30.3,Prediabetic,58.0
+58,Male,160,80,Moderate,No,Mother,Normal,130,31.2,Non-diabetic,19.0
+70,Male,188,55,Low,No,None,Elivated,95,15.6,Non-diabetic,13.0
+40,Male,157,100,Moderate,Yes,None,Normal,185,40.6,Prediabetic,35.0
+43,Male,152,100,High,Yes,Mother,Normal,255,43.3,Diabetic,74.0
+76,Male,163,55,High,No,Father,Very High,240,20.7,Diabetic,71.5
+52,Male,191,80,Low,Yes,Mother;Father,High,155,21.9,Prediabetic,62.5
+58,Female,191,40,Moderate,No,Father;Brother,Very High,85,11.0,Non-diabetic,24.25
+25,Male,175,50,Moderate,No,Mother,Normal,205,16.3,Diabetic,65.0
+46,Male,152,85,Not at All,Yes,None,Normal,155,36.8,Prediabetic,44.0
+22,Female,155,100,Not at All,No,None,Normal,190,41.6,Prediabetic,35.0
+61,Female,155,45,Low,No,Father,Normal,165,18.7,Prediabetic,45.5
+31,Male,168,45,Low,No,Father,High,290,15.9,Diabetic,68.5
+70,Male,175,70,Low,No,Brother,Elivated,145,22.9,Prediabetic,41.75
+22,Female,188,60,Moderate,Yes,Father,Elivated,270,17.0,Diabetic,67.5
+70,Male,170,55,Low,Yes,None,Very High,275,19.0,Diabetic,72.0
+46,Male,183,65,High,No,Father,Normal,135,19.4,Non-diabetic,16.5
+61,Female,175,45,Moderate,No,Sister,High,155,14.7,Prediabetic,41.75
+70,Female,168,50,Moderate,No,Father,Very High,70,17.7,Non-diabetic,21.5
+61,Male,157,55,High,No,Brother,Normal,105,22.3,Non-diabetic,13.75
+28,Male,147,90,High,No,None,Normal,115,41.6,Non-diabetic,5.0
+49,Male,178,70,Moderate,No,Father;Mother;Sister;Brother,Normal,100,22.1,Non-diabetic,34.0
+43,Male,193,80,Low,No,Father,Normal,80,21.5,Non-diabetic,19.5
+37,Male,152,65,Moderate,No,None,Elivated,175,28.1,Prediabetic,29.0
+37,Female,155,60,High,No,Father,Normal,115,25.0,Non-diabetic,11.5
+22,Male,191,45,Low,No,Father;Brother,Normal,105,12.3,Non-diabetic,19.25
+25,Female,191,95,Moderate,No,Father,High,245,26.0,Diabetic,64.5
+67,Female,152,40,Low,No,None,Normal,265,17.3,Diabetic,63.0
+49,Male,147,55,Low,No,Father;Mother;Sister;Brother,Normal,185,25.5,Prediabetic,61.0
+64,Female,175,45,Not at All,Yes,Brother,Very High,295,14.7,Diabetic,77.75
+64,Female,150,90,High,No,Father,Normal,130,40.0,Non-diabetic,17.5
+70,Male,180,75,Low,No,None,Normal,170,23.1,Prediabetic,38.0
+76,Male,150,75,Moderate,No,Father,Elivated,185,33.3,Prediabetic,42.5
+40,Male,170,60,Low,No,Mother,Normal,205,20.8,Diabetic,68.0
+58,Female,168,45,Not at All,No,None,Elivated,145,15.9,Prediabetic,39.0
+46,Female,175,90,Low,No,Brother,Elivated,210,29.4,Diabetic,64.75
+25,Female,185,70,Moderate,No,None,Normal,205,20.5,Diabetic,55.0
+49,Male,170,50,Low,No,None,Normal,290,17.3,Diabetic,62.0
+43,Female,193,55,Low,No,Mother,Very High,205,14.8,Diabetic,76.0
+49,Male,173,55,Moderate,No,Mother,Very High,195,18.4,Prediabetic,48.0
+67,Male,175,80,Moderate,No,Mother,Normal,105,26.1,Non-diabetic,19.0
+46,Female,173,50,Moderate,No,None,Elivated,150,16.7,Prediabetic,34.0
+22,Male,152,70,Low,No,None,Normal,235,30.3,Diabetic,58.0
+46,Female,152,45,Low,No,Father,Normal,115,19.5,Non-diabetic,19.5
+79,Female,165,100,Moderate,No,Mother,High,140,36.7,Prediabetic,48.0
+40,Male,163,95,Moderate,No,Father,Extremely High,130,35.8,Non-diabetic,17.5
+67,Other,188,85,High,No,None,Normal,280,24.0,Diabetic,60.0
+37,Female,163,70,Moderate,No,None,Elivated,225,26.3,Diabetic,54.0
+70,Male,170,45,Low,No,Mother,Normal,70,15.6,Non-diabetic,23.0
+22,Female,191,40,Moderate,No,Mother,High,300,11.0,Diabetic,68.0
+49,Male,168,40,Moderate,No,Mother,Normal,180,14.2,Prediabetic,44.0
+37,Male,155,75,Low,No,None,Normal,170,31.2,Prediabetic,33.0
+34,Male,188,70,Moderate,No,Father,Normal,235,19.8,Diabetic,62.5
+34,Female,191,45,High,No,Father,Elivated,215,12.3,Diabetic,62.5
+46,Other,175,90,Moderate,No,Father,Normal,145,29.4,Prediabetic,40.5
+64,Female,150,85,Low,No,None,Extremely High,105,37.8,Non-diabetic,18.0
+34,Male,152,60,Moderate,No,None,Very High,85,26.0,Non-diabetic,8.0
+79,Female,173,40,Moderate,No,Father,Normal,220,13.4,Diabetic,67.5
+22,Female,163,40,Low,No,None,Normal,125,15.1,Non-diabetic,8.0
+61,Male,185,70,Low,Yes,Mother;Sister,Very High,140,20.5,Prediabetic,60.75
+61,Male,160,40,Low,No,Father,Normal,185,15.6,Prediabetic,45.5
+46,Female,163,55,Low,No,None,Elivated,280,20.7,Diabetic,62.0
+67,Male,183,75,Low,No,None,Normal,160,22.4,Prediabetic,38.0
+64,Female,185,70,Moderate,No,Father;Mother;Sister;Brother,Normal,125,20.5,Non-diabetic,35.0
+28,Female,193,100,Moderate,Yes,Mother,Normal,240,26.8,Diabetic,69.0
+76,Male,150,75,Moderate,No,Father,Normal,115,33.3,Non-diabetic,17.5
+58,Male,183,90,Not at All,No,Father,Very High,75,26.9,Non-diabetic,24.5
+43,Female,175,90,Moderate,No,None,Normal,105,29.4,Non-diabetic,8.0
+37,Male,175,55,High,Yes,Father,Normal,200,18.0,Diabetic,67.5
+34,Female,168,90,Moderate,No,None,Normal,90,31.9,Non-diabetic,5.0
+49,Female,191,75,Moderate,Yes,Father,Normal,240,20.6,Diabetic,71.5
+22,Male,152,45,Moderate,No,None,Normal,290,19.5,Diabetic,55.0
+34,Female,193,40,High,No,None,Very High,215,10.7,Diabetic,59.0
+52,Female,180,100,Low,No,Father;Brother,High,200,30.9,Diabetic,76.25
+70,Male,160,65,Low,No,Mother,High,90,25.4,Non-diabetic,25.0
+76,Male,170,55,High,No,Father,Elivated,210,19.0,Diabetic,67.5
+22,Female,175,45,Moderate,No,Father;Brother,Normal,130,14.7,Non-diabetic,16.25
+46,Other,168,40,Moderate,No,None,Very High,200,14.2,Diabetic,63.0
+76,Other,170,75,Moderate,No,None,Extremely High,225,26.0,Diabetic,64.0
+76,Male,170,65,Moderate,No,None,High,220,22.5,Diabetic,63.0
+76,Male,150,95,Not at All,No,Father,Elivated,120,42.2,Non-diabetic,22.5
+52,Female,150,75,Moderate,No,None,Normal,200,33.3,Diabetic,59.0
+49,Male,193,70,High,No,Mother,Normal,140,18.8,Prediabetic,44.0
+43,Male,185,90,Low,No,Mother,High,300,26.3,Diabetic,74.0
+46,Female,155,95,Low,No,None,Normal,170,39.5,Prediabetic,37.0
+46,Female,168,90,Moderate,Yes,Mother,High,115,31.9,Non-diabetic,27.0
+25,Male,155,95,Low,No,Brother,Normal,165,39.5,Prediabetic,36.75
+61,Female,157,100,High,No,Father,Very High,270,40.6,Diabetic,71.5
+58,Male,165,100,Moderate,No,Mother;Brother,High,290,36.7,Diabetic,75.75
+34,Other,175,70,High,No,Father;Sister,Normal,115,22.9,Non-diabetic,16.25
+61,Female,150,80,Not at All,No,Brother,Very High,190,35.6,Prediabetic,47.75
+52,Female,178,100,Moderate,Yes,None,Elivated,100,31.6,Non-diabetic,14.0
+22,Other,175,90,Low,No,None,Very High,185,29.4,Prediabetic,36.0
+34,Male,155,45,High,No,None,Normal,130,18.7,Non-diabetic,5.0
+49,Female,173,55,Moderate,No,Father,Normal,200,18.4,Diabetic,66.5
+70,Male,155,75,Low,No,Mother,High,300,31.2,Diabetic,76.0
+22,Other,152,60,Not at All,No,None,Normal,190,26.0,Prediabetic,34.0
+79,Male,193,65,Moderate,No,Father,Normal,90,17.5,Non-diabetic,17.5
+64,Other,155,75,Moderate,No,Father,Very High,260,31.2,Diabetic,71.5
+25,Male,178,85,Moderate,No,Sister,Normal,295,26.8,Diabetic,57.75
+67,Female,193,100,Moderate,No,Mother;Father,High,120,26.8,Non-diabetic,29.5
+67,Female,185,50,Low,No,None,Normal,70,14.6,Non-diabetic,13.0
+46,Female,165,45,Low,No,Father,Normal,280,16.5,Diabetic,69.5
+70,Female,191,100,High,No,Father,Normal,75,27.4,Non-diabetic,16.5
+28,Male,168,100,Not at All,Yes,None,Elivated,145,35.4,Prediabetic,40.0
+73,Male,178,50,Moderate,No,Father,Extremely High,90,15.8,Non-diabetic,22.5
+55,Female,185,65,Low,No,None,Elivated,195,19.0,Prediabetic,37.0
+46,Male,168,90,Low,No,Mother,Elivated,160,31.9,Prediabetic,47.0
+28,Female,170,95,Low,Yes,None,Very High,255,32.9,Diabetic,67.0
+79,Female,185,65,Moderate,No,None,Normal,125,19.0,Non-diabetic,10.0
+31,Female,175,75,Low,No,None,Normal,250,24.5,Diabetic,58.0
+31,Male,155,70,Low,No,Father;Brother,High,105,29.1,Non-diabetic,21.25
+31,Female,188,60,Moderate,No,Father,Normal,275,17.0,Diabetic,62.5
+46,Female,170,55,Not at All,No,None,Normal,140,19.0,Prediabetic,39.0
+76,Female,191,65,Not at All,No,Father;Mother;Sister,Normal,250,17.8,Diabetic,86.25
+70,Female,168,85,Moderate,No,None,Elivated,190,30.1,Prediabetic,35.0
+22,Female,150,45,Moderate,No,None,Normal,100,20.0,Non-diabetic,5.0
+58,Male,150,65,Moderate,No,None,Very High,105,28.9,Non-diabetic,12.0
+25,Male,191,65,High,No,None,Normal,205,17.8,Diabetic,55.0
+49,Male,150,95,Low,No,None,Normal,190,42.2,Prediabetic,37.0
+73,Male,155,100,Low,Yes,None,Very High,285,41.6,Diabetic,72.0
+73,Male,160,40,Low,No,None,Elivated,205,15.6,Diabetic,63.0
+52,Female,180,65,Not at All,No,Father,High,305,20.1,Diabetic,74.5
+43,Male,165,65,Low,Yes,Father,Normal,150,23.9,Prediabetic,49.5
+64,Female,191,60,Moderate,No,Father,Normal,75,16.4,Non-diabetic,17.5
+52,Female,150,40,Low,Yes,Mother;Sister,Normal,140,17.8,Prediabetic,55.75
+73,Male,157,70,Moderate,No,Father,Normal,110,28.4,Non-diabetic,16.5
+52,Female,152,70,Moderate,No,Mother,High,125,30.3,Non-diabetic,22.0
+70,Female,188,100,High,No,Brother,Normal,255,28.3,Diabetic,62.75
+58,Female,150,40,Moderate,No,None,Elivated,305,17.8,Diabetic,59.0
+76,Male,163,40,Moderate,No,Father,Elivated,190,15.1,Prediabetic,42.5
+58,Male,150,80,Moderate,No,Mother,Normal,255,35.6,Diabetic,69.0
+49,Male,193,40,Low,No,None,High,120,10.7,Non-diabetic,15.0
+52,Female,175,55,Not at All,Yes,None,Normal,265,18.0,Diabetic,69.0
+73,Male,173,45,Moderate,No,Father,High,305,15.0,Diabetic,70.5
+49,Female,173,40,Moderate,No,None,Normal,75,13.4,Non-diabetic,9.0
+25,Female,178,50,Moderate,No,None,Normal,255,15.8,Diabetic,55.0
+61,Female,175,75,High,No,Mother,Normal,200,24.5,Diabetic,70.0
+79,Female,163,90,Moderate,No,Father,High,70,33.9,Non-diabetic,20.5
+67,Male,152,50,Low,No,Father;Mother;Sister,Normal,185,21.6,Prediabetic,59.25
+31,Female,183,90,Moderate,No,Mother,Normal,95,26.9,Non-diabetic,14.0
+52,Male,178,50,Not at All,No,Mother,Normal,260,15.8,Diabetic,74.0
+58,Male,150,80,Low,No,Father;Mother;Sister;Brother,Normal,280,35.6,Diabetic,87.0
+37,Female,170,75,Low,No,None,Normal,285,26.0,Diabetic,57.0
+52,Male,147,70,Low,No,None,Normal,85,32.4,Non-diabetic,12.0
+37,Female,170,50,Moderate,Yes,Father;Brother,High,215,17.3,Diabetic,74.25
+40,Male,178,60,Low,No,Mother,High,280,18.9,Diabetic,71.0
+40,Other,191,100,Moderate,No,Father,Very High,235,27.4,Diabetic,65.5
+43,Male,185,100,Low,No,Father;Brother,Normal,120,29.2,Non-diabetic,22.25
+73,Male,175,70,Moderate,No,None,Normal,150,22.9,Prediabetic,35.0
+34,Male,180,75,Low,No,Mother;Father,Normal,300,23.1,Diabetic,75.5
+25,Male,175,70,Moderate,No,None,Normal,180,22.9,Prediabetic,30.0
+79,Male,178,95,Low,No,Mother,Normal,230,30.0,Diabetic,73.0
+28,Male,163,65,Moderate,Yes,Father,Normal,245,24.5,Diabetic,67.5
+64,Female,173,100,Moderate,No,None,Elivated,100,33.4,Non-diabetic,10.0
+79,Male,175,100,Moderate,No,Father,Normal,85,32.7,Non-diabetic,17.5
+31,Male,173,60,Moderate,No,None,Normal,165,20.0,Prediabetic,30.0
+37,Female,150,40,Moderate,Yes,Father,Elivated,180,17.8,Prediabetic,42.5
+73,Female,170,45,Moderate,No,Mother,High,120,15.6,Non-diabetic,23.0
+76,Female,185,90,Low,No,Father,Elivated,270,26.3,Diabetic,69.5
+79,Female,147,50,Moderate,No,Mother,Normal,300,23.1,Diabetic,70.0
+67,Female,163,100,Low,No,Father,Normal,280,37.6,Diabetic,70.5
+25,Female,165,65,Moderate,No,None,Normal,210,23.9,Diabetic,55.0
+25,Female,147,85,Moderate,Yes,None,Very High,130,39.3,Non-diabetic,14.0
+76,Male,185,60,Not at All,No,None,Normal,255,17.5,Diabetic,65.0
+58,Female,188,95,Not at All,No,Brother,Normal,295,26.9,Diabetic,66.75
+52,Female,191,85,Moderate,No,Father;Brother,Normal,95,23.3,Non-diabetic,20.25
+25,Male,180,65,Moderate,No,Mother,Elivated,215,20.1,Diabetic,65.0
+25,Other,185,85,Low,Yes,None,Very High,245,24.8,Diabetic,67.0
+49,Male,160,100,Low,No,Father,Normal,145,39.1,Prediabetic,44.5
+34,Male,191,85,Moderate,No,Mother,Normal,270,23.3,Diabetic,65.0
+49,Female,150,65,Moderate,No,Father,Very High,180,28.9,Prediabetic,44.5
+28,Female,180,60,Low,No,Father,Normal,225,18.5,Diabetic,65.5
+70,Female,150,65,Low,No,None,Normal,270,28.9,Diabetic,62.0
+28,Male,193,100,Low,No,Father,Normal,185,26.8,Prediabetic,39.5
+61,Female,178,65,Moderate,Yes,Father,Normal,115,20.5,Non-diabetic,22.5
+46,Male,185,45,Moderate,No,Father,Elivated,245,13.1,Diabetic,66.5
+49,Female,170,65,Moderate,No,None,Normal,140,22.5,Prediabetic,34.0
+25,Male,150,95,Low,No,Mother,Normal,95,42.2,Non-diabetic,18.0
+55,Male,180,60,Low,Yes,Father,High,95,18.5,Non-diabetic,27.5
+28,Female,191,65,Moderate,No,None,Normal,305,17.8,Diabetic,55.0
+37,Male,150,55,Moderate,No,None,Normal,230,24.4,Diabetic,55.0
+46,Female,150,80,Moderate,No,Father,High,305,35.6,Diabetic,69.5
+79,Female,152,70,Low,No,Father;Sister,Normal,130,30.3,Non-diabetic,24.25
+28,Female,155,75,Low,No,Father,Elivated,140,31.2,Prediabetic,40.5
+49,Male,163,55,Moderate,No,Father,High,80,20.7,Non-diabetic,19.5
+37,Female,185,45,Moderate,No,Father,Very High,250,13.1,Diabetic,66.5
+28,Female,178,85,High,No,None,High,250,26.8,Diabetic,57.0
+25,Female,155,70,Low,Yes,None,High,150,29.1,Prediabetic,40.0
+52,Other,180,50,Moderate,No,None,Normal,210,15.4,Diabetic,59.0
+46,Other,157,90,Moderate,No,Mother;Father,Very High,175,36.5,Prediabetic,55.5
+70,Female,173,80,Moderate,No,None,Normal,245,26.7,Diabetic,59.0
+67,Male,157,45,Low,No,None,Normal,285,18.3,Diabetic,63.0
+34,Female,183,80,Moderate,No,None,Very High,295,23.9,Diabetic,59.0
+43,Female,191,45,Moderate,Yes,None,Very High,220,12.3,Diabetic,68.0
+67,Female,173,70,Moderate,No,None,Very High,125,23.4,Non-diabetic,14.0
+22,Male,165,55,Not at All,No,Brother,Normal,165,20.2,Prediabetic,38.75
+25,Female,173,75,Not at All,No,Father,Very High,215,25.1,Diabetic,70.5
+31,Male,188,100,Moderate,No,Father,High,215,28.3,Diabetic,64.5
+49,Female,160,100,Moderate,No,Father,Normal,185,39.1,Prediabetic,41.5
+37,Other,157,100,Low,No,Father,Extremely High,220,40.6,Diabetic,70.5
+34,Female,173,90,Moderate,No,Father,Very High,235,30.1,Diabetic,66.5
+28,Male,155,40,Low,No,None,Very High,135,16.6,Non-diabetic,12.0
+37,Male,188,95,Moderate,No,Mother,Normal,145,26.9,Prediabetic,39.0
+22,Male,160,60,Moderate,No,Father,Normal,140,23.4,Prediabetic,37.5
+67,Female,191,65,Moderate,No,Mother,Normal,250,17.8,Diabetic,70.0
+37,Male,168,80,Moderate,No,Brother,Very High,95,28.3,Non-diabetic,11.75
+52,Male,175,85,High,No,None,Normal,170,27.8,Prediabetic,33.0
+73,Female,168,70,Moderate,No,None,Elivated,150,24.8,Prediabetic,35.0
+73,Male,170,50,Moderate,No,None,Extremely High,245,17.3,Diabetic,65.0
+76,Male,165,75,Low,No,None,Normal,120,27.5,Non-diabetic,12.0
+46,Male,191,55,High,No,Father,Normal,205,15.1,Diabetic,66.5
+31,Male,150,100,High,No,Father,Normal,225,44.4,Diabetic,62.5
+22,Male,188,40,Moderate,Yes,Father,Normal,180,11.3,Prediabetic,42.5
+43,Other,157,50,Moderate,No,Father,High,135,20.3,Non-diabetic,19.5
+25,Female,157,60,Moderate,No,Mother,Normal,280,24.3,Diabetic,65.0
+79,Male,188,85,Moderate,No,Father,Normal,125,24.0,Non-diabetic,17.5
+46,Female,160,65,Moderate,No,Mother,Normal,260,25.4,Diabetic,68.0
+76,Female,157,85,Low,No,None,High,275,34.5,Diabetic,66.0
+40,Female,170,40,Low,No,Father,High,185,13.8,Prediabetic,43.5
+73,Male,147,50,Moderate,No,None,Very High,190,23.1,Prediabetic,39.0
+25,Male,157,40,Low,No,None,Normal,200,16.2,Diabetic,58.0
+28,Male,150,80,Low,No,Father;Mother;Sister;Brother,Normal,250,35.6,Diabetic,83.0
+76,Male,173,75,Moderate,Yes,Father,Very High,120,25.1,Non-diabetic,25.5
+64,Male,157,75,Not at All,No,Mother,Elivated,230,30.4,Diabetic,75.0
+28,Female,157,50,Moderate,No,None,Elivated,135,20.3,Non-diabetic,5.0
+73,Male,175,40,Moderate,No,Father,Normal,300,13.1,Diabetic,67.5
+52,Male,188,75,High,No,None,Normal,190,21.2,Prediabetic,34.0
+76,Female,163,95,Low,No,Brother,High,280,35.8,Diabetic,69.75
+52,Female,157,75,Low,No,Mother,Normal,215,30.4,Diabetic,72.0
+64,Male,152,45,Moderate,No,None,High,90,19.5,Non-diabetic,13.0
+22,Male,183,80,Moderate,No,Father,Normal,165,23.9,Prediabetic,37.5
+31,Other,193,65,Moderate,No,Father,Normal,170,17.5,Prediabetic,37.5
+70,Female,147,80,Low,No,Father,Normal,190,37.0,Prediabetic,45.5
+64,Other,152,65,Moderate,No,None,Normal,80,28.1,Non-diabetic,9.0
+43,Female,175,80,Low,Yes,None,Normal,110,26.1,Non-diabetic,16.0
+76,Female,193,95,Low,No,Father;Mother;Sister,Normal,90,25.5,Non-diabetic,33.25
+70,Male,173,95,Moderate,No,None,Normal,195,31.7,Prediabetic,35.0
+22,Female,150,80,High,No,None,Normal,275,35.6,Diabetic,55.0
+52,Female,157,75,Moderate,No,None,Normal,225,30.4,Diabetic,59.0
+25,Male,188,55,Low,No,Father,Normal,175,15.6,Prediabetic,40.5
+76,Female,168,100,Moderate,No,Father,Normal,255,35.4,Diabetic,67.5
+76,Other,193,100,Not at All,No,Sister,Elivated,210,26.8,Diabetic,67.75
+58,Male,193,40,Low,No,None,Normal,205,10.7,Diabetic,62.0
+40,Male,175,95,Low,No,Father,High,250,31.0,Diabetic,68.5
+22,Male,155,90,Moderate,No,Father,Normal,200,37.5,Diabetic,62.5
+55,Male,178,70,Moderate,Yes,Sister,Normal,285,22.1,Diabetic,67.75
+49,Male,183,70,Moderate,No,Sister,Normal,270,20.9,Diabetic,62.75
+70,Female,150,95,Moderate,Yes,Father,Normal,260,42.2,Diabetic,72.5
+49,Male,155,100,Low,No,None,Extremely High,145,41.6,Prediabetic,42.0
+31,Male,155,75,Low,No,Mother;Father,Elivated,125,31.2,Non-diabetic,25.5
+52,Female,157,60,Low,No,None,Elivated,175,24.3,Prediabetic,37.0
+52,Female,185,75,Moderate,No,None,Normal,225,21.9,Diabetic,59.0
+46,Male,157,75,Low,No,Father,Normal,125,30.4,Non-diabetic,19.5
+58,Male,165,80,High,No,Father,Normal,260,29.4,Diabetic,65.5
+25,Male,173,70,High,No,Mother,Normal,115,23.4,Non-diabetic,15.0
+25,Female,168,85,Low,No,Mother,Normal,120,30.1,Non-diabetic,18.0
+31,Female,147,95,Moderate,No,None,Normal,200,44.0,Diabetic,55.0
+76,Female,168,100,Moderate,No,None,Normal,285,35.4,Diabetic,60.0
+25,Male,178,65,Low,Yes,None,High,280,20.5,Diabetic,66.0
+61,Female,183,65,Moderate,No,Mother,Very High,265,19.4,Diabetic,74.0
+52,Male,170,70,High,No,Mother,Very High,160,24.2,Prediabetic,48.0
+55,Male,165,55,Moderate,No,Father,High,225,20.2,Diabetic,69.5
+70,Female,152,70,Moderate,No,Mother,Normal,260,30.3,Diabetic,70.0
+31,Female,180,70,Low,No,None,Normal,130,21.6,Non-diabetic,8.0
+76,Male,178,70,Low,No,Father;Mother;Sister,Elivated,110,22.1,Non-diabetic,34.25
+73,Female,152,50,Moderate,No,Father,Normal,285,21.6,Diabetic,67.5
+73,Male,165,80,Moderate,No,None,Normal,175,29.4,Prediabetic,34.0
+79,Other,175,40,Moderate,No,Father;Mother;Sister,Very High,250,13.1,Diabetic,85.25
+28,Female,157,95,Moderate,No,Father,Normal,265,38.5,Diabetic,62.5
+55,Male,150,75,Moderate,No,None,Elivated,240,33.3,Diabetic,59.0
+25,Female,170,80,High,Yes,None,Normal,300,27.7,Diabetic,59.0
+49,Male,155,50,Low,No,Father,Normal,220,20.8,Diabetic,69.5
+52,Female,147,60,Low,Yes,Mother,Normal,70,27.8,Non-diabetic,26.0
+52,Male,163,60,Low,No,Mother;Father,Elivated,130,22.6,Non-diabetic,29.5
+67,Female,193,70,Moderate,Yes,Father,Normal,290,18.8,Diabetic,72.5
+34,Female,170,95,Low,No,Father,Normal,305,32.9,Diabetic,65.5
+64,Male,170,65,Low,Yes,None,Very High,175,22.5,Prediabetic,47.0
+37,Other,163,70,Not at All,No,None,Normal,100,26.3,Non-diabetic,9.0
+49,Female,183,55,Moderate,No,Mother,High,135,16.4,Non-diabetic,22.0
+61,Male,147,50,Not at All,No,None,Very High,280,23.1,Diabetic,69.0
+64,Female,163,90,Low,No,None,Normal,70,33.9,Non-diabetic,13.0
+22,Female,160,65,Moderate,No,Father,Very High,220,25.4,Diabetic,65.5
+43,Male,188,95,High,No,Brother,Normal,275,26.9,Diabetic,61.75
+34,Male,193,80,Low,No,Mother,Elivated,165,21.5,Prediabetic,43.0
+43,Male,188,80,Moderate,No,None,Elivated,155,22.6,Prediabetic,34.0
+22,Male,193,40,Low,No,Mother,Elivated,235,10.7,Diabetic,68.0
+28,Female,193,70,Moderate,Yes,Mother,Normal,305,18.8,Diabetic,70.0
+46,Male,185,70,Low,No,Father,Normal,245,20.5,Diabetic,69.5
+61,Male,155,75,Moderate,No,None,Normal,90,31.2,Non-diabetic,10.0
+22,Male,191,65,Low,No,Father,Very High,265,17.8,Diabetic,69.5
+40,Male,155,75,Low,No,Brother,Normal,75,31.2,Non-diabetic,11.75
+64,Male,178,80,Low,No,Father,Normal,120,25.2,Non-diabetic,19.5
+64,Female,160,85,Moderate,No,None,Normal,195,33.2,Prediabetic,35.0
+37,Male,178,55,Moderate,No,Father;Mother;Sister;Brother,Normal,110,17.4,Non-diabetic,30.0
+64,Female,155,40,Moderate,No,Mother,Normal,225,16.6,Diabetic,70.0
+61,Male,150,90,Moderate,No,None,Normal,100,40.0,Non-diabetic,10.0
+40,Female,163,70,Moderate,No,Brother,Extremely High,305,26.3,Diabetic,62.75
+73,Male,155,100,Moderate,No,None,Normal,220,41.6,Diabetic,60.0
+70,Female,160,45,Moderate,No,None,Normal,70,17.6,Non-diabetic,10.0
+43,Female,175,70,High,No,Brother,High,85,22.9,Non-diabetic,15.75
+70,Female,157,75,Low,Yes,None,High,195,30.4,Prediabetic,46.0
+70,Female,150,100,Moderate,No,Mother,Very High,290,44.4,Diabetic,74.0
+52,Male,180,65,Low,No,Mother,Normal,240,20.1,Diabetic,72.0
+34,Male,168,60,Moderate,Yes,Father,Normal,120,21.3,Non-diabetic,17.5
+67,Male,188,80,Low,No,None,Normal,170,22.6,Prediabetic,38.0
+52,Male,183,95,Moderate,No,Father,Normal,165,28.4,Prediabetic,40.5
+28,Female,173,40,Low,No,None,Elivated,145,13.4,Prediabetic,33.0
+49,Female,185,40,Low,No,Father,Normal,290,11.7,Diabetic,69.5
+67,Male,178,50,Not at All,No,None,Normal,215,15.8,Diabetic,65.0
+52,Male,183,50,Low,Yes,None,Very High,225,14.9,Diabetic,71.0
+61,Female,170,95,Moderate,No,Mother,Normal,260,32.9,Diabetic,70.0
+70,Female,160,80,Moderate,No,Brother,High,85,31.2,Non-diabetic,16.75
+49,Female,180,50,Not at All,No,Father;Brother,Very High,75,15.4,Non-diabetic,29.25
+55,Male,165,100,Low,No,None,High,260,36.7,Diabetic,65.0
+76,Male,160,85,Moderate,No,None,Normal,165,33.2,Prediabetic,35.0
+28,Male,175,95,Moderate,No,Mother;Brother,Normal,255,31.0,Diabetic,68.75
+67,Female,165,50,Moderate,No,None,Very High,195,18.4,Prediabetic,39.0
+73,Male,157,60,Moderate,No,None,Normal,100,24.3,Non-diabetic,10.0
+70,Female,193,70,Moderate,No,Father,Normal,110,18.8,Non-diabetic,17.5
+64,Male,150,75,Low,No,None,Normal,300,33.3,Diabetic,63.0
+61,Male,170,70,Low,No,Father,High,175,24.2,Prediabetic,48.5
+58,Female,173,55,Low,No,Father,Normal,265,18.4,Diabetic,69.5
+55,Female,193,75,Moderate,No,Mother,High,290,20.1,Diabetic,72.0
+79,Female,175,55,Moderate,No,Father,Normal,215,18.0,Diabetic,67.5
+31,Male,147,75,Moderate,No,Father,Very High,190,34.7,Prediabetic,41.5
+31,Male,175,70,Moderate,No,Mother,Normal,100,22.9,Non-diabetic,15.0
+28,Female,150,95,Moderate,No,Father,Normal,205,42.2,Diabetic,62.5
+31,Male,188,40,High,No,None,Normal,105,11.3,Non-diabetic,5.0
+67,Male,188,80,Moderate,No,None,High,80,22.6,Non-diabetic,13.0
+55,Female,183,65,Moderate,No,Mother;Brother,Normal,135,19.4,Non-diabetic,22.75
+52,Female,165,70,Moderate,No,None,Normal,255,25.7,Diabetic,58.0
+37,Female,173,90,Low,No,None,Elivated,215,30.1,Diabetic,58.0
+73,Male,152,95,Moderate,Yes,Father;Sister,Normal,270,41.1,Diabetic,76.25
+52,Female,165,95,Moderate,Yes,None,High,175,34.9,Prediabetic,42.0
+28,Female,188,95,Moderate,No,None,High,80,26.9,Non-diabetic,7.0
+67,Male,168,60,Low,No,Father,Normal,265,21.3,Diabetic,70.5
+40,Female,178,75,Moderate,No,Father,Normal,220,23.7,Diabetic,62.5
+55,Female,188,70,Not at All,No,Father,Normal,240,19.8,Diabetic,71.5
+76,Female,173,45,Moderate,No,Father,Normal,115,15.0,Non-diabetic,17.5
+58,Male,193,95,High,Yes,None,Normal,90,25.5,Non-diabetic,13.0
+43,Other,175,70,Moderate,No,Father,High,160,22.9,Prediabetic,44.5
+34,Female,170,55,Moderate,No,None,Very High,210,19.0,Diabetic,59.0
+40,Male,147,55,Low,No,Mother,Elivated,240,25.5,Diabetic,67.0
+67,Male,185,90,Low,No,Father,Normal,80,26.3,Non-diabetic,19.5
+28,Male,147,80,Low,No,None,Normal,130,37.0,Non-diabetic,8.0
+58,Male,150,50,Not at All,Yes,None,Extremely High,230,22.2,Diabetic,74.0
+64,Male,185,100,Not at All,No,None,High,190,29.2,Prediabetic,42.0
+31,Female,152,85,Low,No,Sister,High,160,36.8,Prediabetic,39.75
+64,Male,173,90,Moderate,Yes,Mother,Normal,155,30.1,Prediabetic,50.0
+79,Male,157,75,Low,No,Father,Normal,100,30.4,Non-diabetic,20.5
+46,Other,183,45,Moderate,No,Father,Normal,155,13.4,Prediabetic,41.5
+58,Male,152,65,Moderate,No,Father,Normal,215,28.1,Diabetic,65.5
+37,Other,193,80,Moderate,No,None,High,205,21.5,Diabetic,58.0
+76,Female,170,85,High,No,None,Normal,305,29.4,Diabetic,59.0
+76,Male,163,50,Low,No,Mother,Normal,135,18.8,Non-diabetic,23.0
+34,Male,152,60,Low,No,Mother;Father,Elivated,175,26.0,Prediabetic,49.5
+31,Female,185,95,Low,No,Father,Normal,210,27.8,Diabetic,64.5
+49,Male,157,100,Low,No,Father,Very High,265,40.6,Diabetic,73.5
+28,Female,152,100,Low,No,Father,Elivated,225,43.3,Diabetic,65.5
+43,Female,152,50,Low,No,None,Normal,125,21.6,Non-diabetic,12.0
+46,Other,178,60,Low,Yes,Mother;Father,Normal,215,18.9,Diabetic,84.5
+79,Female,193,100,Low,No,Father,High,85,26.8,Non-diabetic,22.5
+25,Female,155,65,High,No,None,Normal,220,27.1,Diabetic,54.0
+55,Male,183,55,Low,No,Brother,High,285,16.4,Diabetic,68.75
+70,Other,183,60,Low,No,Mother,Normal,85,17.9,Non-diabetic,23.0
+73,Female,175,80,Moderate,No,Mother;Sister,Extremely High,70,26.1,Non-diabetic,27.75
+22,Other,168,85,Moderate,No,None,Normal,160,30.1,Prediabetic,30.0
+73,Male,168,75,Moderate,No,Father,Elivated,280,26.6,Diabetic,66.5
+40,Female,170,75,Moderate,No,Father,Normal,175,26.0,Prediabetic,36.5
+37,Male,180,80,Low,Yes,None,Normal,135,24.7,Non-diabetic,13.0
+40,Female,191,55,Moderate,No,Father,High,105,15.1,Non-diabetic,15.5
+52,Male,155,65,Moderate,Yes,Mother,Very High,140,27.1,Prediabetic,52.0
+22,Female,170,55,Low,No,None,Normal,230,19.0,Diabetic,58.0
+70,Female,160,50,High,No,Father,Normal,140,19.5,Prediabetic,42.5
+64,Male,178,80,Low,No,Father,Normal,290,25.2,Diabetic,69.5
+64,Male,183,95,Low,Yes,Mother,Normal,215,28.4,Diabetic,77.0
+55,Male,191,65,High,No,Father,Normal,105,17.8,Non-diabetic,16.5
+43,Female,163,100,Moderate,No,Father,Normal,300,37.6,Diabetic,66.5
+22,Female,152,55,Low,Yes,None,Normal,220,23.8,Diabetic,63.0
+76,Female,147,75,High,No,Mother;Father,High,200,34.7,Diabetic,80.5
+67,Female,193,90,Moderate,No,None,High,180,24.2,Prediabetic,38.0
+61,Female,155,80,Low,No,None,High,215,33.3,Diabetic,66.0
+61,Male,193,70,Low,Yes,Brother,High,145,18.8,Prediabetic,49.75
+49,Female,183,45,High,No,Mother,Normal,130,13.4,Non-diabetic,19.0
+67,Female,165,55,Low,Yes,None,High,150,20.2,Prediabetic,46.0
+28,Female,191,60,Moderate,No,Mother;Father,Very High,130,16.4,Non-diabetic,26.5
+58,Female,193,95,Not at All,No,None,Elivated,70,25.5,Non-diabetic,13.0
+49,Male,155,45,High,No,Brother,High,115,18.7,Non-diabetic,15.75
+73,Male,163,85,High,No,Father,High,90,32.0,Non-diabetic,20.5
+22,Female,157,50,Moderate,No,Father,Elivated,175,20.3,Prediabetic,37.5
+67,Female,193,80,Low,No,None,Normal,120,21.5,Non-diabetic,13.0
+46,Female,152,40,Moderate,No,None,Normal,235,17.3,Diabetic,59.0
+64,Other,150,90,Moderate,No,Father,Elivated,75,40.0,Non-diabetic,17.5
+67,Female,188,80,Moderate,No,Mother,Normal,85,22.6,Non-diabetic,20.0
+64,Male,163,40,Moderate,No,None,Normal,155,15.1,Prediabetic,35.0
+37,Female,170,100,Moderate,No,Brother,Normal,195,34.6,Prediabetic,33.75
+40,Male,173,85,Low,No,None,Normal,255,28.4,Diabetic,57.0
+31,Male,152,50,Moderate,No,Mother,Normal,225,21.6,Diabetic,65.0
+46,Female,173,90,Moderate,No,Father,Normal,255,30.1,Diabetic,66.5
+25,Female,163,40,Not at All,No,Father,Normal,210,15.1,Diabetic,67.5
+70,Female,175,85,Moderate,No,Brother,Normal,300,27.8,Diabetic,62.75
+52,Female,193,50,Moderate,No,Father;Mother;Sister;Brother,Normal,275,13.4,Diabetic,84.0
+61,Male,180,60,Moderate,No,Sister,Normal,230,18.5,Diabetic,63.75
+52,Male,163,90,Low,No,None,Elivated,160,33.9,Prediabetic,37.0
+37,Other,168,50,Moderate,No,Father,Normal,280,17.7,Diabetic,62.5
+61,Female,188,80,Moderate,No,None,Normal,285,22.6,Diabetic,60.0
+61,Male,170,95,Low,No,None,High,135,32.9,Non-diabetic,16.0
+61,Male,147,55,Moderate,No,Mother,Normal,70,25.5,Non-diabetic,19.0
+55,Female,173,70,Moderate,No,Mother;Father,Very High,150,23.4,Prediabetic,55.5
+31,Other,188,75,Moderate,Yes,Mother,High,95,21.2,Non-diabetic,23.0
+58,Female,170,40,Low,No,Brother,Elivated,205,13.8,Diabetic,65.75
+49,Male,168,70,Low,No,Father,Normal,270,24.8,Diabetic,69.5
+31,Female,160,95,Moderate,No,Father;Brother,Normal,160,37.1,Prediabetic,41.25
+64,Female,163,90,High,No,Father,Normal,275,33.9,Diabetic,67.5
+49,Female,157,100,High,No,Father;Mother;Sister;Brother,Very High,305,40.6,Diabetic,88.0
+49,Male,163,70,Low,No,Father,High,265,26.3,Diabetic,71.5
+55,Male,191,70,Moderate,No,None,Normal,260,19.2,Diabetic,59.0
+61,Female,175,85,Low,No,Mother,Normal,130,27.8,Non-diabetic,22.0
+28,Male,152,95,Low,No,Father,Elivated,215,41.1,Diabetic,65.5
+70,Male,147,50,Moderate,No,Mother;Brother,Normal,205,23.1,Diabetic,73.75
+25,Female,178,50,High,Yes,None,Normal,275,15.8,Diabetic,60.0
+28,Male,180,60,Low,No,Mother,Very High,125,18.5,Non-diabetic,22.0
+34,Female,183,55,Low,No,None,Normal,95,16.4,Non-diabetic,8.0
+34,Female,193,95,Moderate,No,Father,Very High,235,25.5,Diabetic,65.5
+31,Other,173,70,Moderate,No,None,Very High,95,23.4,Non-diabetic,9.0
+55,Female,193,65,Moderate,Yes,Father,Elivated,70,17.5,Non-diabetic,21.5
+49,Female,185,80,Moderate,No,Mother,Normal,240,23.4,Diabetic,69.0
+52,Male,193,55,Moderate,No,Mother;Father,Elivated,290,14.8,Diabetic,76.5
+52,Male,173,75,Moderate,No,Mother,Normal,260,25.1,Diabetic,68.0
+37,Male,170,80,High,No,None,High,140,27.7,Prediabetic,32.0
+34,Male,150,95,Moderate,No,None,Elivated,90,42.2,Non-diabetic,5.0
+31,Female,175,85,Not at All,No,Father,Normal,180,27.8,Prediabetic,41.5
+52,Male,163,70,Low,No,None,Normal,75,26.3,Non-diabetic,11.0
+25,Female,191,65,High,No,None,Normal,165,17.8,Prediabetic,30.0
+37,Female,173,50,Low,No,None,Normal,185,16.7,Prediabetic,33.0
+31,Female,168,40,Moderate,No,Father,Extremely High,220,14.2,Diabetic,67.5
+46,Female,178,95,Low,No,None,Normal,230,30.0,Diabetic,62.0
+64,Female,147,80,Moderate,No,Father;Brother,Elivated,250,37.0,Diabetic,71.25
+76,Male,157,45,Moderate,No,None,Normal,175,18.3,Prediabetic,35.0
+31,Female,152,75,Moderate,No,None,Normal,300,32.5,Diabetic,55.0
+46,Other,191,70,Low,No,Mother;Sister,Normal,225,19.2,Diabetic,75.75
+76,Female,160,70,Moderate,Yes,Mother,High,265,27.3,Diabetic,77.0
+52,Female,168,60,High,No,Father;Mother;Sister;Brother,Normal,300,21.3,Diabetic,84.0
+43,Female,163,95,Low,No,None,Normal,270,35.8,Diabetic,62.0
+55,Other,193,100,Low,No,Mother,High,185,26.8,Prediabetic,49.0
+58,Female,160,75,Moderate,No,None,Normal,265,29.3,Diabetic,58.0
+40,Male,168,65,Moderate,No,Father,Elivated,290,23.0,Diabetic,62.5
+52,Male,157,75,Low,No,Father,Very High,90,30.4,Non-diabetic,23.5
+64,Male,150,55,Low,No,Father,Normal,260,24.4,Diabetic,70.5
+52,Male,165,100,High,No,Father,High,240,36.7,Diabetic,69.5
+79,Male,188,70,Low,No,Father;Brother,High,165,19.8,Prediabetic,52.25
+70,Male,150,85,Moderate,No,None,Normal,240,37.8,Diabetic,60.0
+58,Male,178,55,Low,No,Father,Normal,270,17.4,Diabetic,69.5
+46,Male,185,70,Moderate,No,Mother,Normal,145,20.5,Prediabetic,44.0
+25,Female,168,40,Moderate,No,None,Normal,230,14.2,Diabetic,55.0
+58,Female,150,75,High,No,None,Normal,235,33.3,Diabetic,59.0
+67,Female,155,70,Low,No,Father,Normal,245,29.1,Diabetic,69.5
+40,Female,180,65,Low,No,None,High,260,20.1,Diabetic,61.0
+70,Male,160,50,Low,Yes,Father;Mother;Sister,Normal,200,19.5,Diabetic,89.25
+34,Female,180,100,Moderate,No,None,Very High,155,30.9,Prediabetic,34.0
+64,Male,170,45,Low,No,Father,Normal,160,15.6,Prediabetic,45.5
+67,Female,191,60,Low,No,None,Normal,190,16.4,Prediabetic,38.0
+37,Female,168,90,Moderate,No,Mother,Normal,215,31.9,Diabetic,65.0
+31,Male,168,50,Low,No,Mother;Sister,Normal,120,17.7,Non-diabetic,21.75
+43,Male,163,40,Not at All,No,Mother,Normal,110,15.1,Non-diabetic,24.0
+28,Male,185,50,Not at All,No,Father;Mother;Brother,High,255,14.6,Diabetic,84.25
+61,Female,155,40,Low,No,Mother;Father,Normal,295,16.6,Diabetic,80.5
+49,Other,185,85,Moderate,No,Sister,Normal,150,24.8,Prediabetic,37.75
+49,Female,188,100,Low,No,Father,Normal,170,28.3,Prediabetic,43.5
+28,Female,193,40,Not at All,No,Father,Normal,75,10.7,Non-diabetic,17.5
+61,Female,188,85,Low,No,Mother,Normal,165,24.0,Prediabetic,48.0
+22,Female,185,65,Moderate,No,None,Normal,260,19.0,Diabetic,55.0
+73,Female,160,40,Moderate,Yes,Father,Normal,290,15.6,Diabetic,72.5
+79,Female,188,75,Moderate,No,Father,Normal,100,21.2,Non-diabetic,17.5
+34,Female,168,65,Low,No,Brother,Elivated,235,23.0,Diabetic,61.75
+76,Male,152,40,Not at All,No,None,Normal,245,17.3,Diabetic,65.0
+37,Male,183,80,Low,No,None,Normal,160,23.9,Prediabetic,33.0
+70,Female,178,60,Moderate,No,Mother;Father,Very High,120,18.9,Non-diabetic,31.5
+31,Other,180,70,Moderate,Yes,Sister,Normal,250,21.6,Diabetic,63.75
+64,Male,163,85,Low,No,Father,High,165,32.0,Prediabetic,48.5
+40,Female,157,65,Low,No,None,Normal,230,26.4,Diabetic,57.0
+73,Male,152,60,Low,No,Father,Normal,155,26.0,Prediabetic,44.5
+46,Male,150,95,Moderate,No,Father,Very High,165,42.2,Prediabetic,45.5
+55,Female,152,40,Moderate,No,None,Elivated,260,17.3,Diabetic,59.0
+73,Female,185,40,Moderate,No,None,Normal,175,11.7,Prediabetic,35.0
+31,Male,183,50,Moderate,No,Father,High,220,14.9,Diabetic,65.5
+76,Male,191,85,Moderate,No,Father,Normal,80,23.3,Non-diabetic,17.5
+76,Male,185,65,Low,No,None,Normal,255,19.0,Diabetic,63.0
+37,Male,180,80,Low,No,None,High,165,24.7,Prediabetic,36.0
+64,Other,180,40,Low,No,Mother,Extremely High,265,12.3,Diabetic,78.0
+55,Female,180,75,High,No,Father,Normal,300,23.1,Diabetic,66.5
+28,Female,155,55,Moderate,No,Father,Very High,235,22.9,Diabetic,66.5
+37,Male,150,55,Moderate,No,Father;Mother;Sister;Brother,High,245,24.4,Diabetic,83.0
+76,Female,193,95,Moderate,No,Mother,Very High,175,25.5,Prediabetic,48.0
+64,Female,155,60,Not at All,Yes,Mother,Normal,195,25.0,Prediabetic,54.0
+25,Female,178,75,Moderate,No,Sister,Elivated,100,23.7,Non-diabetic,8.75
+25,Female,191,40,Moderate,No,None,Normal,130,11.0,Non-diabetic,5.0
+43,Female,178,100,Moderate,No,None,Normal,200,31.6,Diabetic,59.0
+61,Male,157,90,Moderate,No,None,Very High,185,36.5,Prediabetic,39.0
+58,Male,178,95,Not at All,No,Father,Normal,70,30.0,Non-diabetic,21.5
+43,Female,183,85,Moderate,No,Mother,Normal,165,25.4,Prediabetic,43.0
+34,Female,155,40,Low,No,Mother;Father,Normal,185,16.6,Prediabetic,50.5
+67,Female,152,90,Moderate,No,None,Elivated,270,39.0,Diabetic,60.0
+67,Male,175,50,High,No,None,Normal,150,16.3,Prediabetic,35.0
+31,Female,152,65,High,No,Father;Brother,Normal,225,28.1,Diabetic,65.25
+76,Male,155,65,Low,Yes,Mother,High,120,27.1,Non-diabetic,30.0
+76,Male,175,80,Moderate,No,Mother;Father,Normal,305,26.1,Diabetic,76.5
+52,Female,178,50,Moderate,No,Father,Elivated,80,15.8,Non-diabetic,16.5
+25,Male,178,85,Moderate,No,None,High,280,26.8,Diabetic,57.0
+52,Female,150,65,Not at All,No,None,Very High,285,28.9,Diabetic,67.0
+55,Female,168,55,Low,No,Father,Normal,185,19.5,Prediabetic,44.5
+43,Male,163,60,Low,No,Mother,Normal,270,22.6,Diabetic,72.0
+76,Male,178,65,Not at All,Yes,None,Very High,155,20.5,Prediabetic,49.0
+76,Male,188,70,Moderate,No,Father,Normal,230,19.8,Diabetic,67.5
+52,Female,173,45,Low,No,None,Very High,240,15.0,Diabetic,66.0
+73,Male,150,90,Moderate,Yes,Mother;Father,Normal,155,40.0,Prediabetic,57.5
+52,Male,170,80,Moderate,No,None,Normal,150,27.7,Prediabetic,33.0
+37,Female,178,75,Low,No,None,Elivated,155,23.7,Prediabetic,33.0
+52,Male,173,70,Moderate,No,Mother,Normal,165,23.4,Prediabetic,44.0
+58,Female,183,75,Moderate,No,Father,Very High,255,22.4,Diabetic,70.5
+40,Male,191,90,High,No,None,Normal,185,24.7,Prediabetic,30.0
+70,Male,157,45,Low,No,Father,Normal,140,18.3,Prediabetic,45.5
+49,Male,150,40,Not at All,No,Mother,Normal,200,17.8,Diabetic,74.0
+52,Female,155,90,Low,No,Mother,Normal,195,37.5,Prediabetic,47.0
+58,Female,183,65,Moderate,No,Mother,Elivated,285,19.4,Diabetic,69.0
+46,Female,170,95,Moderate,Yes,None,Normal,285,32.9,Diabetic,64.0
+52,Female,185,85,Low,No,Father,Extremely High,85,24.8,Non-diabetic,24.5
+37,Male,163,50,Moderate,No,Father,Very High,265,18.8,Diabetic,66.5
+58,Female,185,100,Low,No,Father;Sister,Normal,175,29.2,Prediabetic,47.25
+67,Male,188,75,Low,No,None,High,280,21.2,Diabetic,66.0
+73,Female,191,100,Low,No,Mother,Normal,180,27.4,Prediabetic,47.0
+67,Male,157,45,Not at All,No,None,Normal,210,18.3,Diabetic,65.0
+79,Female,157,95,Moderate,No,Father,Normal,215,38.5,Diabetic,67.5
+64,Female,191,45,High,No,Father,High,90,12.3,Non-diabetic,20.5
+49,Male,185,100,Moderate,No,Father,Normal,95,29.2,Non-diabetic,15.5
+46,Other,168,85,Low,No,Mother;Father,Elivated,175,30.1,Prediabetic,54.5
+73,Male,193,75,Not at All,No,Father,Very High,190,20.1,Prediabetic,51.5
+37,Male,178,95,Low,Yes,Father,Normal,105,30.0,Non-diabetic,20.5
+61,Female,152,70,Low,No,Father,Normal,160,30.3,Prediabetic,45.5
+70,Male,188,75,Moderate,No,Mother,Elivated,220,21.2,Diabetic,70.0
+79,Male,180,50,Moderate,No,None,Very High,220,15.4,Diabetic,64.0
+61,Female,173,90,High,No,Father;Mother;Sister;Brother,Normal,285,30.1,Diabetic,85.0
+55,Female,180,40,High,No,Father,Very High,295,12.3,Diabetic,70.5
+64,Male,170,40,Moderate,No,Father,Normal,185,13.8,Prediabetic,42.5
+34,Other,147,90,Low,No,Father,Normal,285,41.6,Diabetic,65.5
+64,Male,152,60,Not at All,No,None,Normal,305,26.0,Diabetic,64.0
+58,Male,183,65,Moderate,No,Mother,Normal,235,19.4,Diabetic,69.0
+40,Other,163,70,Moderate,No,Mother,Extremely High,125,26.3,Non-diabetic,19.0
+67,Male,152,90,Moderate,No,Mother,Very High,155,39.0,Prediabetic,49.0
+67,Male,193,70,Moderate,No,Father,Normal,240,18.8,Diabetic,67.5
+61,Male,185,45,Moderate,No,Father,Normal,225,13.1,Diabetic,67.5
+34,Female,157,60,Not at All,No,None,Normal,80,24.3,Non-diabetic,10.0
+22,Female,180,85,Low,No,Father,Normal,260,26.2,Diabetic,64.5
+55,Female,150,40,High,No,Father,Normal,285,17.8,Diabetic,66.5
+22,Other,175,85,High,No,None,Normal,225,27.8,Diabetic,54.0
+58,Male,185,45,Low,No,Father,Normal,225,13.1,Diabetic,69.5
+40,Male,180,45,Moderate,No,None,Normal,155,13.9,Prediabetic,30.0
+58,Male,168,80,Low,No,Mother,Normal,265,28.3,Diabetic,71.0
+55,Male,160,85,Moderate,No,Father,Normal,160,33.2,Prediabetic,41.5
+31,Male,160,65,Moderate,No,Father,Normal,125,25.4,Non-diabetic,11.5
+52,Other,165,50,Moderate,No,Mother,Normal,200,18.4,Diabetic,69.0
+70,Female,155,60,Low,No,Father,High,220,25.0,Diabetic,72.5
+79,Male,180,55,Low,No,None,Elivated,105,17.0,Non-diabetic,13.0
+76,Male,152,40,Moderate,No,None,Normal,275,17.3,Diabetic,60.0
+64,Female,165,45,Not at All,No,None,Normal,290,16.5,Diabetic,65.0
+70,Female,180,85,Not at All,No,Sister,Normal,295,26.2,Diabetic,67.75
+40,Male,175,70,Moderate,No,Mother,Normal,120,22.9,Non-diabetic,15.0
+46,Female,155,95,High,No,None,Normal,265,39.5,Diabetic,59.0
+40,Other,180,45,Moderate,No,None,High,295,13.9,Diabetic,58.0
+58,Other,150,85,Low,No,None,High,210,37.8,Diabetic,65.0
+52,Female,173,100,Moderate,No,None,Normal,80,33.4,Non-diabetic,9.0
+76,Male,188,60,Low,No,None,Normal,180,17.0,Prediabetic,38.0
+31,Male,191,80,Moderate,Yes,Father,Extremely High,160,21.9,Prediabetic,47.5
+37,Female,147,75,High,No,Mother,Elivated,90,34.7,Non-diabetic,15.0
+67,Male,175,100,Moderate,No,None,Normal,295,32.7,Diabetic,60.0
+31,Male,178,70,Moderate,Yes,None,High,250,22.1,Diabetic,63.0
+70,Female,178,60,Low,No,None,Normal,130,18.9,Non-diabetic,13.0
+46,Male,180,55,Not at All,No,None,Normal,190,17.0,Prediabetic,39.0
+58,Male,160,100,Moderate,No,Mother,Normal,280,39.1,Diabetic,69.0
+43,Female,183,60,Not at All,No,Father,Normal,285,17.9,Diabetic,71.5
+55,Female,152,100,Low,No,None,High,235,43.3,Diabetic,65.0
+49,Male,188,95,Moderate,Yes,Mother;Brother,High,120,26.9,Non-diabetic,29.75
+49,Female,175,70,Not at All,Yes,Brother,Very High,225,22.9,Diabetic,76.75
+22,Male,180,95,Moderate,No,Father,Normal,295,29.3,Diabetic,61.5
+31,Female,183,50,Moderate,No,Mother,Normal,90,14.9,Non-diabetic,15.0
+40,Female,178,100,Low,Yes,Father,Normal,305,31.6,Diabetic,70.5
+28,Male,185,75,Moderate,No,None,Normal,190,21.9,Prediabetic,30.0
+31,Female,165,60,Moderate,No,Sister,Elivated,200,22.0,Diabetic,58.75
+76,Female,157,95,Moderate,No,None,Normal,290,38.5,Diabetic,60.0
+28,Other,183,40,Low,No,Father,Normal,115,11.9,Non-diabetic,15.5
+76,Male,157,50,Moderate,No,Father,Extremely High,200,20.3,Diabetic,72.5
+61,Male,160,95,Not at All,No,Father,Normal,295,37.1,Diabetic,72.5
+73,Female,173,40,Low,Yes,Mother,Very High,300,13.4,Diabetic,82.0
+76,Female,155,80,Not at All,No,None,Normal,250,33.3,Diabetic,65.0
+43,Female,170,40,Low,No,Mother;Father,Normal,105,13.8,Non-diabetic,29.5
+79,Female,178,100,Not at All,No,Sister,High,85,31.6,Non-diabetic,21.75
+58,Male,178,75,Moderate,No,None,Normal,300,23.7,Diabetic,59.0
+67,Male,178,55,Moderate,No,None,Normal,75,17.4,Non-diabetic,10.0
+61,Male,165,95,Low,No,Mother,Elivated,200,34.9,Diabetic,73.0
+31,Male,168,40,High,No,Father,Normal,100,14.2,Non-diabetic,12.5
+64,Female,163,95,High,No,Mother;Father,Normal,220,35.8,Diabetic,77.5
+79,Other,152,100,Moderate,No,Mother,High,190,43.3,Prediabetic,48.0
+73,Male,152,65,Moderate,Yes,Father,Normal,300,28.1,Diabetic,71.5
+58,Male,191,90,High,No,None,Elivated,90,24.7,Non-diabetic,9.0
+22,Male,147,55,Low,No,None,Normal,240,25.5,Diabetic,57.0
+43,Female,193,60,Moderate,No,Sister,Normal,195,16.1,Prediabetic,37.75
+22,Other,170,75,Low,No,Father,Normal,95,26.0,Non-diabetic,14.5
+67,Female,180,70,Moderate,No,None,Normal,170,21.6,Prediabetic,35.0
+43,Male,165,75,Moderate,No,Mother,Normal,205,27.5,Diabetic,68.0
+46,Female,188,70,Low,Yes,Sister,Normal,140,19.8,Prediabetic,45.75
+73,Male,163,80,Moderate,No,None,Normal,245,30.1,Diabetic,60.0
+67,Female,191,80,High,No,Father,Very High,255,21.9,Diabetic,71.5
+22,Male,147,55,Low,No,Sister,Extremely High,125,25.5,Non-diabetic,15.75
+67,Female,170,95,Not at All,No,Mother,Very High,190,32.9,Prediabetic,54.0
+22,Male,188,80,Moderate,No,Father,Normal,275,22.6,Diabetic,62.5
+46,Female,168,60,Moderate,No,Mother,Elivated,260,21.3,Diabetic,69.0
+64,Female,191,75,Moderate,No,Father,Normal,160,20.6,Prediabetic,42.5
+70,Male,168,95,Moderate,No,None,Elivated,205,33.7,Diabetic,60.0
+64,Female,193,70,Moderate,No,Father,Very High,245,18.8,Diabetic,71.5
+34,Other,152,85,Moderate,No,Mother,Normal,200,36.8,Diabetic,65.0
+70,Male,147,45,Low,No,Father,Elivated,175,20.8,Prediabetic,45.5
+52,Female,188,40,Moderate,No,Mother,Normal,285,11.3,Diabetic,69.0
+28,Female,173,100,Low,No,Father,Normal,250,33.4,Diabetic,65.5
+67,Female,147,65,Low,No,Father,Normal,140,30.1,Prediabetic,45.5
+31,Female,173,50,Moderate,No,Brother,Normal,225,16.7,Diabetic,58.75
+40,Female,173,45,High,No,Father,High,85,15.0,Non-diabetic,15.5
+34,Female,191,90,Moderate,No,Father,Normal,190,24.7,Prediabetic,37.5
+40,Male,193,50,Low,No,Mother;Father,Normal,100,13.4,Non-diabetic,25.5
+55,Male,178,50,Low,No,None,Elivated,175,15.8,Prediabetic,37.0
+73,Male,180,90,Low,Yes,Father,Normal,200,27.8,Diabetic,74.5
+31,Female,173,85,Moderate,Yes,None,Normal,90,28.4,Non-diabetic,9.0
+37,Female,185,45,Moderate,No,Father,Normal,90,13.1,Non-diabetic,12.5
+52,Male,191,65,Low,No,Father,Normal,155,17.8,Prediabetic,44.5
+22,Male,147,40,Moderate,No,Father,Normal,155,18.5,Prediabetic,37.5
+43,Male,185,100,Not at All,No,Brother,Normal,290,29.2,Diabetic,66.75
+28,Female,168,95,Moderate,No,Mother,High,90,33.7,Non-diabetic,18.0
+46,Male,155,60,Low,No,Mother,Very High,215,25.0,Diabetic,75.0
+64,Female,180,55,Moderate,No,Father,Normal,100,17.0,Non-diabetic,17.5
+34,Male,168,95,Low,No,Mother;Father,Elivated,195,33.7,Prediabetic,50.5
+31,Female,170,90,Moderate,No,Father,Normal,225,31.1,Diabetic,62.5
+40,Male,160,100,Low,No,None,Normal,275,39.1,Diabetic,58.0
+31,Female,180,85,High,No,Father,Elivated,270,26.2,Diabetic,61.5
+28,Male,163,50,Low,No,Sister,Normal,125,18.8,Non-diabetic,11.75
+70,Female,168,45,Moderate,No,None,Normal,210,15.9,Diabetic,60.0
+64,Male,155,40,Low,No,None,Normal,270,16.6,Diabetic,63.0
+52,Female,168,55,Low,No,None,Very High,100,19.5,Non-diabetic,16.0
+64,Female,180,40,Moderate,No,Brother,Elivated,285,12.3,Diabetic,63.75
+49,Female,185,80,Not at All,No,None,Normal,180,23.4,Prediabetic,39.0
+49,Female,175,85,Low,No,None,Normal,160,27.8,Prediabetic,36.0
+40,Female,150,60,Low,Yes,Father,Normal,110,26.7,Non-diabetic,19.5
+70,Male,152,95,Moderate,Yes,Father,Normal,290,41.1,Diabetic,72.5
+61,Male,152,60,Moderate,No,None,Normal,210,26.0,Diabetic,59.0
+73,Female,185,85,Low,No,None,Elivated,230,24.8,Diabetic,63.0
+49,Male,152,45,Low,No,None,High,135,19.5,Non-diabetic,15.0
+28,Other,165,90,Low,No,None,Normal,110,33.1,Non-diabetic,8.0
+70,Male,175,80,Moderate,Yes,None,Elivated,255,26.1,Diabetic,64.0
+55,Male,188,45,Low,No,None,Normal,130,12.7,Non-diabetic,12.0
+64,Male,165,95,Low,No,Sister,Normal,145,34.9,Prediabetic,41.75
+31,Male,173,65,Low,No,None,Normal,145,21.7,Prediabetic,33.0
+70,Female,160,55,Not at All,No,None,High,80,21.5,Non-diabetic,18.0
+79,Female,170,70,Moderate,No,Brother,Normal,250,24.2,Diabetic,63.75
+61,Male,152,80,Low,No,Mother,Normal,230,34.6,Diabetic,73.0
+37,Male,188,70,Moderate,No,Father,Normal,115,19.8,Non-diabetic,12.5
+46,Female,165,65,Low,No,Father,Elivated,115,23.9,Non-diabetic,19.5
+55,Male,160,85,Low,Yes,Father,Very High,240,33.2,Diabetic,78.5
+55,Female,170,60,Moderate,Yes,None,Normal,290,20.8,Diabetic,64.0
+79,Female,170,95,High,No,Mother,Normal,170,32.9,Prediabetic,45.0
+22,Female,193,95,Moderate,No,None,Elivated,135,25.5,Non-diabetic,4.0
+73,Female,152,80,Not at All,No,Mother,Elivated,125,34.6,Non-diabetic,25.0
+61,Female,180,75,Moderate,No,None,Normal,305,23.1,Diabetic,60.0
+55,Female,173,55,High,Yes,Sister,Normal,85,18.4,Non-diabetic,17.75
+28,Female,168,45,Low,No,Father,Normal,90,15.9,Non-diabetic,15.5
+22,Female,165,55,Moderate,No,Father,Elivated,70,20.2,Non-diabetic,12.5
+22,Other,191,60,Moderate,No,Mother,High,210,16.4,Diabetic,68.0
+37,Female,180,70,Low,No,Father,Normal,95,21.6,Non-diabetic,15.5
+64,Male,183,80,Moderate,Yes,Sister,Normal,195,23.9,Prediabetic,43.75
+43,Male,165,40,Not at All,No,None,Elivated,115,14.7,Non-diabetic,14.0
+31,Female,188,95,Low,No,Father,Elivated,205,26.9,Diabetic,64.5
+46,Female,185,85,Low,No,Mother,Normal,260,24.8,Diabetic,72.0
+61,Female,180,70,Moderate,No,None,Normal,110,21.6,Non-diabetic,10.0
+79,Male,163,75,Moderate,No,None,Normal,255,28.2,Diabetic,59.0
+64,Male,173,55,Not at All,No,Father,Very High,225,18.4,Diabetic,76.5
+58,Female,165,75,Moderate,No,Mother,High,245,27.5,Diabetic,71.0
+37,Male,183,45,Moderate,No,Father,Normal,70,13.4,Non-diabetic,12.5
+73,Female,188,80,Moderate,No,Father,Normal,260,22.6,Diabetic,67.5
+28,Male,155,40,High,No,None,Normal,245,16.6,Diabetic,55.0
+37,Female,163,90,Low,No,Mother,Very High,215,33.9,Diabetic,72.0
+28,Male,150,40,Low,No,Brother,High,85,17.8,Non-diabetic,14.75
+64,Female,188,40,Low,No,None,Normal,120,11.3,Non-diabetic,13.0
+73,Male,160,75,Moderate,No,Father,Normal,145,29.3,Prediabetic,41.5
+49,Female,165,65,Moderate,No,Father,Normal,210,23.9,Diabetic,66.5
+79,Female,193,55,Moderate,No,None,Normal,85,14.8,Non-diabetic,10.0
+46,Female,168,65,Moderate,No,None,Normal,185,23.0,Prediabetic,34.0
+58,Female,160,65,Not at All,No,None,High,260,25.4,Diabetic,66.0
+34,Male,170,95,Moderate,No,None,Normal,275,32.9,Diabetic,55.0
+22,Male,168,40,Moderate,No,Father,Normal,255,14.2,Diabetic,62.5
+37,Male,170,90,Low,No,Father,Normal,295,31.1,Diabetic,65.5
+76,Male,193,100,Moderate,No,Father,Normal,145,26.8,Prediabetic,41.5
+34,Female,152,85,High,No,Brother,Normal,220,36.8,Diabetic,58.75
+40,Male,157,60,Low,No,None,Normal,160,24.3,Prediabetic,33.0
+70,Male,155,100,Low,No,Father,High,300,41.6,Diabetic,73.5
+25,Female,168,40,Low,Yes,None,Normal,160,14.2,Prediabetic,38.0
+46,Male,185,80,Low,No,Mother,Normal,105,23.4,Non-diabetic,22.0
+55,Other,185,90,Moderate,Yes,Father,Normal,260,26.3,Diabetic,70.5
+55,Male,165,70,Moderate,No,None,Normal,195,25.7,Prediabetic,33.0
+55,Female,191,45,Moderate,No,Father,Very High,175,12.3,Prediabetic,45.5
+22,Female,185,55,Low,Yes,None,Normal,95,16.1,Non-diabetic,13.0
+55,Female,173,45,Moderate,No,Father,Normal,260,15.0,Diabetic,66.5
+73,Female,168,100,Not at All,No,None,High,180,35.4,Prediabetic,43.0
+22,Male,152,75,Low,Yes,None,Elivated,130,32.5,Non-diabetic,13.0
+61,Male,175,75,Low,No,Mother,High,295,24.5,Diabetic,76.0
+37,Male,188,60,Low,No,Mother,Very High,105,17.0,Non-diabetic,22.0
+34,Female,155,85,High,No,None,Normal,290,35.4,Diabetic,55.0
+52,Female,147,40,Moderate,No,None,Very High,115,18.5,Non-diabetic,13.0
+40,Male,160,95,Not at All,No,Father,High,200,37.1,Diabetic,70.5
+25,Male,191,85,Low,No,None,Normal,265,23.3,Diabetic,58.0
+49,Male,173,80,Moderate,No,Mother,Elivated,145,26.7,Prediabetic,43.0
+52,Male,155,100,Moderate,No,Mother,Normal,210,41.6,Diabetic,69.0
+67,Male,147,50,Low,Yes,Father,Normal,135,23.1,Non-diabetic,25.5
+76,Male,170,85,Moderate,No,Father,Normal,180,29.4,Prediabetic,41.5
+61,Male,178,45,Low,No,Mother,High,215,14.2,Diabetic,76.0
+49,Female,180,90,Moderate,No,None,Elivated,280,27.8,Diabetic,58.0
+67,Female,191,70,Low,No,None,Normal,130,19.2,Non-diabetic,13.0
+70,Male,178,70,Moderate,Yes,Father;Brother,Normal,270,22.1,Diabetic,76.25
+79,Male,152,90,High,No,Father;Mother;Sister;Brother,High,110,39.0,Non-diabetic,38.0
+40,Female,155,40,Low,No,Father,Very High,90,16.6,Non-diabetic,19.5
+40,Male,191,55,High,No,Mother,Normal,115,15.1,Non-diabetic,15.0
+25,Male,150,95,Moderate,No,Father;Sister,Extremely High,285,42.2,Diabetic,71.25
+79,Male,155,75,Moderate,No,None,Very High,135,31.2,Non-diabetic,14.0
+49,Male,160,50,Low,No,None,Very High,70,19.5,Non-diabetic,16.0
+61,Male,160,60,Moderate,No,Father;Sister,High,95,23.4,Non-diabetic,24.25
+37,Female,178,50,Low,No,Mother,High,140,15.8,Prediabetic,46.0
+34,Female,178,50,Low,No,Sister,High,90,15.8,Non-diabetic,14.75
+49,Male,185,40,High,No,Mother,Normal,245,11.7,Diabetic,69.0
+22,Male,152,40,Moderate,No,None,High,290,17.3,Diabetic,58.0
+22,Female,188,85,Not at All,No,None,High,110,24.0,Non-diabetic,13.0
+67,Female,191,40,Moderate,No,Father,Very High,170,11.0,Prediabetic,46.5
+58,Other,165,85,Low,No,Mother,High,190,31.2,Prediabetic,50.0
+70,Male,173,95,High,No,Mother,Very High,210,31.7,Diabetic,74.0
+31,Female,157,70,High,No,Mother,Normal,215,28.4,Diabetic,64.0
+22,Other,188,40,Moderate,No,Father,Very High,275,11.3,Diabetic,66.5
+34,Female,173,50,Moderate,No,None,Elivated,270,16.7,Diabetic,55.0
+58,Male,193,80,Low,Yes,None,Normal,85,21.5,Non-diabetic,17.0
+37,Other,173,90,High,No,None,High,155,30.1,Prediabetic,33.0
+70,Female,191,75,Moderate,Yes,None,Normal,140,20.6,Prediabetic,40.0
+28,Female,165,85,Moderate,No,Father,Normal,240,31.2,Diabetic,62.5
+28,Female,157,80,High,Yes,Mother;Father,Normal,285,32.5,Diabetic,77.5
+31,Male,150,55,Moderate,No,None,Normal,155,24.4,Prediabetic,30.0
+70,Female,183,90,Moderate,No,None,Normal,235,26.9,Diabetic,59.0
+49,Male,152,40,Low,No,Mother;Father,Normal,185,17.3,Prediabetic,54.5
+64,Female,175,45,Low,No,Mother,Elivated,150,14.7,Prediabetic,48.0
+61,Female,165,65,High,No,Father,Very High,170,23.9,Prediabetic,46.5
+67,Male,152,85,Low,Yes,Mother,Normal,290,36.8,Diabetic,78.0
+37,Male,147,55,Moderate,No,None,Normal,230,25.5,Diabetic,54.0
+49,Male,183,45,High,No,None,Normal,250,13.4,Diabetic,59.0
+46,Male,185,40,Moderate,No,Sister,Normal,125,11.7,Non-diabetic,12.75
+43,Male,193,45,Moderate,No,Father,Very High,140,12.1,Prediabetic,45.5
+25,Male,191,85,Moderate,No,Father,High,100,23.3,Non-diabetic,15.5
+25,Female,170,50,Low,No,None,High,140,17.3,Prediabetic,36.0
+52,Female,170,65,Low,No,Father,Very High,270,22.5,Diabetic,73.5
+34,Female,178,95,Moderate,No,Father;Mother;Sister,Normal,70,30.0,Non-diabetic,26.25
+28,Female,155,90,Moderate,No,Father,Very High,285,37.5,Diabetic,66.5
+61,Male,160,95,High,No,None,Normal,255,37.1,Diabetic,60.0
+55,Male,178,100,Not at All,No,Father,Normal,235,31.6,Diabetic,71.5
+70,Other,185,55,Low,No,None,Normal,120,16.1,Non-diabetic,13.0
+31,Male,178,60,Low,No,Father,High,240,18.9,Diabetic,68.5
+31,Male,152,70,Low,No,Father;Mother;Brother,Normal,200,30.3,Diabetic,79.25
+73,Male,160,90,Not at All,No,Father,Normal,110,35.2,Non-diabetic,22.5
+28,Male,170,80,Low,No,None,Normal,260,27.7,Diabetic,57.0
+67,Male,173,85,Moderate,No,Father;Mother;Sister,High,130,28.4,Non-diabetic,33.25
+25,Female,160,45,Low,Yes,Father,High,300,17.6,Diabetic,73.5
+55,Female,183,40,Not at All,No,None,Elivated,275,11.9,Diabetic,64.0
+58,Female,183,60,High,No,None,Normal,295,17.9,Diabetic,59.0
+61,Female,160,80,Moderate,Yes,None,Normal,190,31.2,Prediabetic,40.0
+40,Female,188,80,Not at All,No,Father;Brother,Normal,70,22.6,Non-diabetic,21.25
+52,Male,183,80,Moderate,No,None,Very High,155,23.9,Prediabetic,38.0
+46,Male,191,70,Low,No,None,Normal,100,19.2,Non-diabetic,12.0
+61,Male,152,80,Moderate,No,None,Normal,135,34.6,Non-diabetic,10.0
+70,Male,188,80,Moderate,No,Mother;Father,Normal,205,22.6,Diabetic,77.5
+46,Female,168,80,Moderate,No,None,Normal,125,28.3,Non-diabetic,8.0
+31,Male,157,60,High,No,Father,Elivated,85,24.3,Non-diabetic,12.5
+73,Female,157,40,Moderate,No,None,Normal,260,16.2,Diabetic,60.0
+22,Female,152,50,High,Yes,Father,Normal,265,21.6,Diabetic,67.5
+37,Female,155,60,Low,No,Mother,Normal,220,25.0,Diabetic,67.0
+61,Female,165,40,Moderate,No,Mother,Very High,95,14.7,Non-diabetic,24.0
+52,Female,193,95,Not at All,No,Father,Normal,110,25.5,Non-diabetic,20.5
+70,Male,175,45,High,No,None,Very High,85,14.7,Non-diabetic,14.0
+64,Male,147,100,Moderate,No,Father,Normal,155,46.3,Prediabetic,42.5
+64,Male,157,40,Moderate,No,None,High,280,16.2,Diabetic,63.0
+22,Male,173,100,Low,No,Mother,Normal,205,33.4,Diabetic,68.0
+76,Female,168,45,Moderate,No,None,Normal,195,15.9,Prediabetic,35.0
+43,Male,152,70,Moderate,No,Father;Brother,High,185,30.3,Prediabetic,48.25
+37,Female,157,90,Moderate,No,None,Normal,260,36.5,Diabetic,55.0
+55,Female,188,75,Moderate,Yes,Mother,High,150,21.2,Prediabetic,52.0
+28,Female,168,55,High,No,None,High,125,19.5,Non-diabetic,8.0
+61,Female,191,90,Moderate,No,Father,Elivated,200,24.7,Diabetic,67.5
+46,Female,152,85,Low,Yes,Mother,High,90,36.8,Non-diabetic,30.0
+61,Male,170,55,Moderate,No,Father,High,300,19.0,Diabetic,70.5
+25,Female,155,65,Low,No,Mother,Normal,115,27.1,Non-diabetic,17.0
+34,Female,178,50,Moderate,No,Father;Mother;Sister,Normal,265,15.8,Diabetic,76.25
+31,Female,150,50,Moderate,No,Father,Normal,115,22.2,Non-diabetic,12.5
+58,Female,155,50,Low,No,Father,High,285,20.8,Diabetic,72.5
+73,Female,152,80,Moderate,No,None,Elivated,230,34.6,Diabetic,60.0
+64,Female,175,95,Moderate,Yes,None,High,265,31.0,Diabetic,68.0
+46,Male,173,95,Moderate,No,Brother,Very High,260,31.7,Diabetic,66.75
+40,Male,165,65,Moderate,No,Mother,High,160,23.9,Prediabetic,43.0
+28,Female,155,85,Moderate,No,Father,High,75,35.4,Non-diabetic,15.5
+46,Male,183,100,Moderate,No,Father,Normal,240,29.9,Diabetic,65.5
+37,Female,150,70,Low,No,Father,High,120,31.1,Non-diabetic,18.5
+31,Male,193,90,Moderate,Yes,None,Extremely High,85,24.2,Non-diabetic,15.0
+49,Female,188,50,Not at All,No,Father,Normal,75,14.1,Non-diabetic,21.5
+28,Male,165,80,Low,No,None,Very High,255,29.4,Diabetic,61.0
+46,Other,175,85,Low,No,Father,Normal,305,27.8,Diabetic,68.5
+55,Female,165,45,Moderate,Yes,Father;Mother;Sister;Brother,Very High,175,16.5,Prediabetic,68.0
+25,Male,175,70,Low,No,Mother,Elivated,105,22.9,Non-diabetic,18.0
+43,Female,165,80,Low,No,None,Normal,225,29.4,Diabetic,61.0
+37,Male,193,75,Not at All,No,Sister,Normal,170,20.1,Prediabetic,38.75
+46,Female,147,100,High,Yes,Brother,Extremely High,305,46.3,Diabetic,72.75
+49,Female,160,40,Moderate,No,None,Normal,270,15.6,Diabetic,59.0
+52,Female,168,80,Moderate,Yes,Father;Brother,Normal,85,28.3,Non-diabetic,24.25
+22,Female,147,75,Low,No,None,Normal,140,34.7,Prediabetic,33.0
+49,Male,193,80,Low,No,None,Normal,140,21.5,Prediabetic,37.0
+22,Male,173,90,Low,Yes,Mother;Sister,Normal,220,30.1,Diabetic,76.75
+34,Male,180,55,Moderate,No,None,Normal,180,17.0,Prediabetic,30.0
+22,Female,150,80,Moderate,No,Father,Very High,270,35.6,Diabetic,66.5
+67,Male,170,45,Moderate,No,None,High,155,15.6,Prediabetic,38.0
+31,Female,178,60,Low,No,None,Normal,270,18.9,Diabetic,58.0
+67,Male,147,75,Moderate,No,None,Normal,175,34.7,Prediabetic,35.0
+61,Female,147,65,Low,No,None,Elivated,140,30.1,Prediabetic,38.0
+58,Female,173,45,Low,No,Father,Normal,75,15.0,Non-diabetic,19.5
+52,Female,160,40,Low,No,Father,Normal,235,15.6,Diabetic,69.5
+67,Male,183,55,High,No,None,Very High,205,16.4,Diabetic,64.0
+40,Female,168,85,Not at All,No,Mother,Normal,180,30.1,Prediabetic,45.0
+40,Female,193,95,Moderate,No,Mother,Normal,290,25.5,Diabetic,64.0
+22,Male,193,90,High,No,Father,Very High,170,24.2,Prediabetic,41.5
+46,Male,160,70,Low,No,Mother,High,95,27.3,Non-diabetic,24.0
+58,Male,193,50,Low,No,Mother,High,95,13.4,Non-diabetic,25.0
+46,Female,193,45,Not at All,Yes,Brother,High,125,12.1,Non-diabetic,25.75
+55,Female,150,55,Low,No,Sister,Normal,130,24.4,Non-diabetic,15.75
+28,Female,180,75,Low,No,Brother,High,95,23.1,Non-diabetic,14.75
+37,Female,175,70,Moderate,No,None,High,200,22.9,Diabetic,58.0
+28,Other,191,50,Not at All,No,Mother,Elivated,170,13.7,Prediabetic,45.0
+37,Female,150,80,Not at All,No,Father,Very High,205,35.6,Diabetic,71.5
+28,Male,152,85,Low,No,Mother;Father,Elivated,205,36.8,Diabetic,75.5
+34,Female,185,100,Moderate,No,Father;Mother;Sister;Brother,High,210,29.2,Diabetic,82.0
+31,Male,183,45,Moderate,No,Brother,Normal,300,13.4,Diabetic,58.75
+52,Male,165,45,Low,Yes,Brother,Normal,285,16.5,Diabetic,70.75
+49,Male,152,45,Not at All,No,Mother,Normal,150,19.5,Prediabetic,49.0
+64,Male,163,90,Moderate,No,None,Normal,150,33.9,Prediabetic,35.0
+22,Male,157,100,Low,No,None,High,225,40.6,Diabetic,61.0
+70,Male,170,55,Moderate,No,Father,Normal,280,19.0,Diabetic,67.5
+34,Other,173,80,Moderate,No,Father,Normal,200,26.7,Diabetic,61.5
+76,Male,155,75,Moderate,No,None,Very High,225,31.2,Diabetic,64.0
+28,Male,193,45,Moderate,No,Mother,Normal,200,12.1,Diabetic,65.0
+73,Male,168,65,High,No,Father,Normal,230,23.0,Diabetic,67.5
+79,Male,175,85,High,No,Mother,Normal,250,27.8,Diabetic,69.0
+76,Female,168,65,Moderate,No,Father;Brother,Normal,230,23.0,Diabetic,71.25
+55,Female,168,60,Low,No,Sister,Normal,300,21.3,Diabetic,65.75
+70,Male,188,80,Moderate,No,Father,Normal,145,22.6,Prediabetic,42.5
+49,Male,163,90,Low,No,None,Normal,195,33.9,Prediabetic,37.0
+64,Male,157,70,High,Yes,Father,Normal,220,28.4,Diabetic,71.5
+52,Male,152,50,Moderate,No,Father;Mother;Sister;Brother,Normal,290,21.6,Diabetic,84.0
+70,Female,157,55,Low,No,Brother,Normal,140,22.3,Prediabetic,41.75
+49,Male,175,80,Moderate,No,None,Elivated,215,26.1,Diabetic,58.0
+49,Female,170,80,Moderate,Yes,Father,High,280,27.7,Diabetic,73.5
+52,Female,165,90,Moderate,No,Father,Normal,195,33.1,Prediabetic,41.5
+64,Female,178,85,Moderate,No,Mother,Elivated,70,26.8,Non-diabetic,19.0
+70,Female,178,70,Moderate,No,Father,Very High,180,22.1,Prediabetic,46.5
+73,Female,175,85,Moderate,Yes,Father,Normal,145,27.8,Prediabetic,46.5
+31,Male,178,85,Moderate,Yes,Father,Normal,155,26.8,Prediabetic,41.5
+64,Female,165,50,High,No,Father,Elivated,300,18.4,Diabetic,67.5
+79,Female,183,40,Low,No,None,Normal,220,11.9,Diabetic,63.0
+67,Male,170,55,Moderate,No,Father,High,200,19.0,Diabetic,70.5
+58,Male,170,85,Moderate,No,Mother,Extremely High,255,29.4,Diabetic,73.0
+79,Female,155,45,Moderate,No,Father;Brother,High,240,18.7,Diabetic,74.25
+46,Female,155,50,Low,No,Mother;Brother,Normal,260,20.8,Diabetic,75.75
+61,Male,157,70,Moderate,No,None,Normal,110,28.4,Non-diabetic,9.0
+40,Female,183,90,Low,No,Father,Very High,155,26.9,Prediabetic,43.5
+58,Male,173,85,Moderate,No,None,Elivated,250,28.4,Diabetic,58.0
+40,Female,175,75,Moderate,No,Father,Normal,100,24.5,Non-diabetic,12.5
+22,Other,163,75,Moderate,No,Father,High,115,28.2,Non-diabetic,14.5
+22,Female,160,50,Moderate,No,None,Normal,210,19.5,Diabetic,55.0
+40,Male,147,95,Moderate,No,Brother,Normal,195,44.0,Prediabetic,33.75
+64,Female,160,40,Not at All,No,None,Normal,175,15.6,Prediabetic,40.0
+67,Male,183,90,Moderate,No,Mother,Normal,170,26.9,Prediabetic,44.0
+28,Male,155,90,High,No,None,Normal,90,37.5,Non-diabetic,5.0
+28,Male,160,70,Low,No,None,High,195,27.3,Prediabetic,35.0
+52,Male,168,40,High,No,None,High,215,14.2,Diabetic,62.0
+22,Female,175,80,Not at All,No,Father,Normal,85,26.1,Non-diabetic,16.5
+52,Male,173,45,Low,No,None,Very High,185,15.0,Prediabetic,41.0
+61,Male,175,95,Moderate,No,Sister,High,235,31.0,Diabetic,66.75
+55,Female,150,90,Low,No,Father,High,150,40.0,Prediabetic,47.5
+43,Male,173,65,Low,Yes,None,Normal,135,21.7,Non-diabetic,17.0
+55,Male,168,85,High,No,Mother,Extremely High,245,30.1,Diabetic,74.0
+28,Other,173,50,Moderate,Yes,Mother,Very High,180,16.7,Prediabetic,49.0
+67,Other,183,40,High,No,Mother,Normal,140,11.9,Prediabetic,45.0
+40,Male,188,45,Moderate,No,Father,Elivated,280,12.7,Diabetic,62.5
+43,Other,178,40,Moderate,No,None,Elivated,270,12.6,Diabetic,59.0
+67,Female,178,55,Moderate,No,Mother,Normal,265,17.4,Diabetic,70.0
+22,Male,165,95,Moderate,No,None,High,300,34.9,Diabetic,58.0
+58,Male,193,90,Moderate,No,None,Normal,145,24.2,Prediabetic,34.0
+67,Other,163,85,Low,No,Mother,Normal,80,32.0,Non-diabetic,23.0
+79,Male,175,55,Low,No,Father,High,150,18.0,Prediabetic,48.5
+25,Male,152,95,Not at All,No,Mother,Normal,185,41.1,Prediabetic,45.0
+28,Male,180,65,Not at All,Yes,Father;Mother;Brother,Elivated,155,20.1,Prediabetic,61.25
+73,Female,188,70,Low,Yes,None,Very High,160,19.8,Prediabetic,47.0
+67,Other,188,95,Not at All,No,Mother,Normal,185,26.9,Prediabetic,49.0
+67,Female,165,60,Moderate,No,Mother,Very High,120,22.0,Non-diabetic,24.0
+34,Male,193,90,Moderate,No,Mother,Normal,70,24.2,Non-diabetic,15.0
+61,Male,183,70,Not at All,No,None,Elivated,195,20.9,Prediabetic,40.0
+70,Female,188,55,Low,No,None,Normal,260,15.6,Diabetic,63.0
+52,Male,170,50,Moderate,No,Mother,Normal,230,17.3,Diabetic,69.0
+43,Female,165,75,Moderate,No,Father,Normal,170,27.5,Prediabetic,40.5
+37,Female,168,65,High,No,None,Normal,200,23.0,Diabetic,55.0
+55,Male,147,90,Low,No,Mother,Normal,225,41.6,Diabetic,72.0
+58,Male,175,75,Moderate,No,None,Elivated,115,24.5,Non-diabetic,9.0
+34,Male,188,80,High,No,None,Elivated,250,22.6,Diabetic,55.0
+70,Female,168,100,Moderate,No,None,Normal,285,35.4,Diabetic,60.0
+43,Male,183,45,Moderate,No,Father,High,90,13.4,Non-diabetic,19.5
+61,Female,188,95,Low,No,Father,Normal,155,26.9,Prediabetic,44.5
+64,Male,185,100,Low,No,Mother,Normal,225,29.2,Diabetic,72.0
+58,Female,188,85,Moderate,No,None,Normal,280,24.0,Diabetic,59.0
+40,Male,170,65,Moderate,No,Father,Elivated,75,22.5,Non-diabetic,12.5
+46,Male,188,80,Moderate,No,Father,Normal,95,22.6,Non-diabetic,16.5
+61,Male,168,40,Moderate,Yes,None,High,75,14.2,Non-diabetic,18.0
+61,Male,185,75,High,No,None,Elivated,280,21.9,Diabetic,60.0
+31,Female,163,85,High,No,None,Extremely High,145,32.0,Prediabetic,35.0
+34,Male,155,45,Moderate,No,Father,Normal,200,18.7,Diabetic,62.5
+40,Female,183,80,High,No,Father,Normal,105,23.9,Non-diabetic,12.5
+49,Female,175,70,Moderate,No,Father,High,290,22.9,Diabetic,69.5
+43,Female,183,85,Moderate,No,Mother,High,125,25.4,Non-diabetic,21.0
+52,Male,183,80,Moderate,No,Father,Extremely High,80,23.9,Non-diabetic,21.5
+64,Male,150,90,Low,No,None,Normal,275,40.0,Diabetic,63.0
+67,Male,191,45,Moderate,No,Mother,Extremely High,250,12.3,Diabetic,75.0
+64,Female,165,50,Low,No,Mother;Father,Normal,120,18.4,Non-diabetic,30.5
+70,Male,193,75,Low,No,None,Very High,245,20.1,Diabetic,67.0
+73,Female,157,65,Low,Yes,None,High,140,26.4,Prediabetic,45.0
+43,Male,191,100,Low,Yes,Father,Normal,95,27.4,Non-diabetic,23.5
+52,Female,168,95,Low,No,Father,Normal,255,33.7,Diabetic,69.5
+79,Female,168,65,Moderate,No,Mother;Father,High,280,23.0,Diabetic,80.5
+67,Female,165,100,Moderate,No,Mother,Normal,215,36.7,Diabetic,70.0
+34,Male,147,65,Moderate,No,Father,Very High,300,30.1,Diabetic,66.5
+76,Female,168,50,High,No,None,Normal,295,17.7,Diabetic,60.0
+61,Female,165,75,High,No,None,Very High,80,27.5,Non-diabetic,13.0
+67,Male,175,60,Moderate,No,Father;Mother;Brother,Elivated,120,19.6,Non-diabetic,31.25
+49,Female,150,65,Moderate,No,Father,Normal,245,28.9,Diabetic,65.5
+70,Male,155,80,Moderate,No,None,High,105,33.3,Non-diabetic,13.0
+67,Female,191,70,Moderate,No,None,High,110,19.2,Non-diabetic,13.0
+25,Female,173,95,Not at All,No,None,Normal,230,31.7,Diabetic,60.0
+73,Female,175,90,Low,No,Mother,Very High,75,29.4,Non-diabetic,26.0
+34,Female,175,55,Moderate,No,None,Normal,130,18.0,Non-diabetic,5.0
+61,Female,183,45,Not at All,No,Father;Mother;Brother,Normal,160,13.4,Prediabetic,61.25
+40,Male,155,90,Low,No,None,Normal,270,37.5,Diabetic,58.0
+22,Male,155,65,Moderate,No,Brother,Normal,290,27.1,Diabetic,57.75
+40,Female,163,50,Moderate,No,Father,High,115,18.8,Non-diabetic,15.5
+25,Male,155,90,High,No,Father,Elivated,280,37.5,Diabetic,62.5
+43,Male,191,85,Not at All,No,None,Normal,265,23.3,Diabetic,64.0
+52,Female,168,75,Low,No,Father,Normal,195,26.6,Prediabetic,43.5
+79,Other,173,75,Low,No,None,Normal,180,25.1,Prediabetic,37.0
+52,Female,163,75,Not at All,No,None,High,305,28.2,Diabetic,66.0
+73,Male,175,100,Low,No,Sister,Normal,70,32.7,Non-diabetic,16.75
+58,Male,157,40,Moderate,No,Father,Normal,275,16.2,Diabetic,66.5
+52,Male,183,65,Low,No,Father,Normal,95,19.4,Non-diabetic,19.5
+46,Female,170,40,Low,No,None,Normal,70,13.8,Non-diabetic,12.0
+25,Female,178,65,Low,No,Mother,Normal,115,20.5,Non-diabetic,18.0
+43,Male,175,50,Moderate,No,Mother,Very High,90,16.3,Non-diabetic,23.0
+67,Male,155,40,High,No,Father,Normal,280,16.6,Diabetic,67.5
+76,Male,157,40,Not at All,No,None,Normal,245,16.2,Diabetic,65.0
+61,Male,175,100,Not at All,No,Father,Normal,275,32.7,Diabetic,72.5
+76,Male,173,50,Low,No,None,High,295,16.7,Diabetic,66.0
+64,Female,175,45,Low,No,None,Elivated,285,14.7,Diabetic,63.0
+46,Male,175,85,Moderate,No,Mother,Elivated,270,27.8,Diabetic,68.0
+76,Male,152,75,High,No,None,Normal,265,32.5,Diabetic,60.0
+61,Other,178,100,Moderate,No,Mother,Normal,235,31.6,Diabetic,70.0
+31,Other,163,55,Low,No,Father,Normal,210,20.7,Diabetic,65.5
+67,Female,152,85,Low,No,Mother,Extremely High,270,36.8,Diabetic,78.0
+76,Female,155,85,High,Yes,Father,Normal,285,35.4,Diabetic,72.5
+64,Female,193,80,Not at All,No,Sister,High,95,21.5,Non-diabetic,21.75
+37,Female,152,95,Not at All,No,Father,Normal,90,41.1,Non-diabetic,17.5
+55,Female,150,75,Not at All,No,Father;Sister,High,125,33.3,Non-diabetic,28.25
+22,Male,165,70,Low,No,Father,Normal,175,25.7,Prediabetic,39.5
+73,Female,191,65,Moderate,No,Mother,Normal,120,17.8,Non-diabetic,20.0
+25,Female,180,65,High,No,Father,Normal,290,20.1,Diabetic,62.5
+25,Male,155,85,Moderate,No,Sister,Normal,145,35.4,Prediabetic,33.75
+40,Male,170,45,Low,No,Father,Normal,70,15.6,Non-diabetic,15.5
+46,Female,188,95,High,Yes,Father,Very High,215,26.9,Diabetic,74.5
+31,Female,160,95,Moderate,No,Mother,Normal,260,37.1,Diabetic,65.0
+61,Male,147,80,Low,No,Father,Very High,275,37.0,Diabetic,74.5
+49,Male,165,100,Moderate,Yes,Mother;Sister,Normal,190,36.7,Prediabetic,52.75
+31,Male,147,60,Low,No,None,Normal,155,27.8,Prediabetic,32.0
+52,Female,173,65,High,No,Mother,Normal,275,21.7,Diabetic,69.0
+70,Female,155,50,Moderate,No,Mother,Normal,275,20.8,Diabetic,70.0
+70,Female,193,45,Low,No,Father,Normal,145,12.1,Prediabetic,45.5
+67,Male,157,45,Moderate,No,None,High,145,18.3,Prediabetic,38.0
+40,Male,163,85,Low,No,Father,Normal,175,32.0,Prediabetic,40.5
+70,Female,160,95,High,No,Father;Sister,Elivated,75,37.1,Non-diabetic,21.25
+76,Male,193,50,Not at All,No,None,Normal,130,13.4,Non-diabetic,15.0
+34,Male,188,95,Moderate,No,Mother,Normal,165,26.9,Prediabetic,39.0
+28,Female,168,55,High,No,None,Normal,285,19.5,Diabetic,55.0
+67,Female,168,85,Low,No,None,High,250,30.1,Diabetic,66.0
+43,Male,165,45,Low,No,None,Normal,160,16.5,Prediabetic,37.0
+79,Female,183,50,Moderate,No,Father,Normal,195,14.9,Prediabetic,42.5
+55,Female,150,90,High,No,None,Normal,120,40.0,Non-diabetic,9.0
+25,Female,180,95,Moderate,No,None,Normal,70,29.3,Non-diabetic,4.0
+73,Female,183,70,Low,Yes,None,Normal,250,20.9,Diabetic,68.0
+46,Male,163,40,Not at All,No,Mother,Normal,245,15.1,Diabetic,74.0
+61,Male,165,100,Moderate,No,Father,High,240,36.7,Diabetic,70.5
+28,Female,175,65,Moderate,No,Sister,Normal,235,21.2,Diabetic,58.75
+37,Female,185,45,Low,No,Father,High,110,13.1,Non-diabetic,18.5
+22,Female,178,75,Moderate,No,None,Elivated,295,23.7,Diabetic,55.0
+25,Other,180,100,High,No,Sister,Normal,210,30.9,Diabetic,58.75
+49,Female,173,55,Moderate,No,Mother,Normal,205,18.4,Diabetic,69.0
+67,Female,155,70,Low,No,None,Normal,135,29.1,Non-diabetic,12.0
+64,Male,163,55,Moderate,No,None,High,285,20.7,Diabetic,63.0
+70,Female,191,50,Moderate,No,Father;Mother;Brother,High,190,13.7,Prediabetic,59.25
+79,Female,155,85,Not at All,No,None,Normal,170,35.4,Prediabetic,40.0
+61,Other,191,80,Low,No,None,Normal,230,21.9,Diabetic,63.0
+46,Female,168,75,Moderate,No,Father;Brother,Elivated,260,26.6,Diabetic,69.25
+40,Female,168,90,Moderate,No,None,Elivated,295,31.9,Diabetic,55.0
+34,Male,185,40,Moderate,No,None,Very High,125,11.7,Non-diabetic,9.0
+61,Male,188,100,Not at All,No,Father,Normal,185,28.3,Prediabetic,46.5
+25,Female,185,90,Low,No,None,Normal,195,26.3,Prediabetic,32.0
+61,Male,191,70,Low,No,Father,Extremely High,110,19.2,Non-diabetic,25.5
+28,Male,173,55,Low,No,Brother,Normal,175,18.4,Prediabetic,36.75
+58,Female,165,60,Low,No,None,Very High,115,22.0,Non-diabetic,16.0
+58,Male,168,100,High,No,Mother,Normal,285,35.4,Diabetic,69.0
+37,Male,155,75,Moderate,Yes,None,Normal,160,31.2,Prediabetic,35.0
+25,Male,152,40,Low,No,Father,Very High,80,17.3,Non-diabetic,19.5
+73,Male,170,85,Low,No,None,Normal,270,29.4,Diabetic,62.0
+76,Female,175,40,High,No,None,Elivated,100,13.1,Non-diabetic,10.0
+76,Male,193,45,Moderate,No,None,Very High,270,12.1,Diabetic,64.0
+76,Female,173,90,Moderate,No,None,Normal,110,30.1,Non-diabetic,10.0
+79,Female,157,75,Low,No,Father,Normal,225,30.4,Diabetic,70.5
+25,Male,152,75,Moderate,No,None,Normal,255,32.5,Diabetic,55.0
+37,Female,150,60,Moderate,No,Father,Normal,215,26.7,Diabetic,61.5
+49,Male,175,65,Low,No,None,Normal,165,21.2,Prediabetic,37.0
+64,Male,185,50,Low,No,Father;Brother,High,145,14.6,Prediabetic,52.25
+22,Male,155,100,Moderate,No,Father,Very High,90,41.6,Non-diabetic,16.5
+28,Male,191,60,Moderate,No,None,Normal,175,16.4,Prediabetic,30.0
+64,Male,183,80,Low,No,Father,Elivated,125,23.9,Non-diabetic,20.5
+64,Female,185,45,Low,No,None,Normal,235,13.1,Diabetic,63.0
+64,Female,147,50,Moderate,No,Brother,High,150,23.1,Prediabetic,41.75
+73,Male,168,85,Moderate,No,None,Elivated,205,30.1,Diabetic,60.0
+28,Male,175,75,Moderate,No,Father,Normal,245,24.5,Diabetic,62.5
+43,Male,160,50,High,No,Father,Normal,150,19.5,Prediabetic,41.5
+61,Female,185,60,Low,No,None,Normal,250,17.5,Diabetic,63.0
+46,Female,170,70,Low,No,Mother,Normal,220,24.2,Diabetic,72.0
+31,Male,175,55,Low,No,None,Normal,290,18.0,Diabetic,58.0
+37,Male,147,45,High,No,Mother,Very High,150,20.8,Prediabetic,44.0
+31,Male,147,55,Low,No,Father,High,260,25.5,Diabetic,67.5
+46,Female,152,65,Moderate,No,None,High,170,28.1,Prediabetic,36.0
+37,Female,157,50,Moderate,No,Mother,Elivated,275,20.3,Diabetic,65.0
+25,Female,173,95,Moderate,Yes,Mother,Normal,115,31.7,Non-diabetic,20.0
+67,Male,152,80,Moderate,No,Sister,Elivated,230,34.6,Diabetic,63.75
+46,Other,175,90,Not at All,Yes,Sister,High,110,29.4,Non-diabetic,24.75
+43,Male,175,90,Low,Yes,Father;Brother,Normal,240,29.4,Diabetic,77.25
+58,Male,163,55,Moderate,No,None,Normal,280,20.7,Diabetic,59.0
+46,Male,170,60,Moderate,No,None,High,95,20.8,Non-diabetic,12.0
+22,Male,183,85,Low,No,None,Normal,305,25.4,Diabetic,57.0
+55,Female,173,80,Moderate,No,None,Normal,140,26.7,Prediabetic,33.0
+76,Other,155,75,Low,Yes,Father,Normal,220,31.2,Diabetic,75.5
+73,Female,175,90,Moderate,No,Mother,Elivated,270,29.4,Diabetic,69.0
+31,Female,173,60,Moderate,No,Father,Normal,180,20.0,Prediabetic,37.5
+37,Male,150,65,Low,No,Mother;Brother,Normal,100,28.9,Non-diabetic,20.75
+37,Female,193,50,Not at All,No,None,High,150,13.4,Prediabetic,38.0
+67,Male,175,100,Moderate,No,Father,Normal,265,32.7,Diabetic,67.5
+76,Female,150,55,Moderate,No,None,Normal,260,24.4,Diabetic,60.0
+52,Other,180,75,Moderate,No,Father;Mother;Brother,Normal,195,23.1,Prediabetic,55.25
+49,Female,175,90,Low,No,Mother,Normal,95,29.4,Non-diabetic,21.0
+43,Female,180,90,Moderate,No,Mother;Father,High,200,27.8,Diabetic,78.5
+76,Male,193,70,Low,No,Father;Brother,Elivated,100,18.8,Non-diabetic,24.25
+49,Male,157,95,Moderate,Yes,Father;Sister,High,140,38.5,Prediabetic,53.25
+79,Female,191,60,Low,No,Father,Normal,225,16.4,Diabetic,70.5
+73,Other,180,55,Low,No,Brother,Normal,235,17.0,Diabetic,66.75
+46,Female,157,95,Low,No,Brother,Elivated,295,38.5,Diabetic,65.75
+55,Female,191,50,Low,No,None,Normal,295,13.7,Diabetic,62.0
+64,Female,178,80,Low,Yes,Mother;Sister,Normal,180,25.2,Prediabetic,55.75
+58,Female,185,55,Moderate,No,Sister,Normal,245,16.1,Diabetic,62.75
+61,Female,193,75,Not at All,No,Father;Sister,High,95,20.1,Non-diabetic,29.25
+28,Male,173,55,High,No,None,Elivated,120,18.4,Non-diabetic,5.0
+76,Female,165,80,Moderate,No,None,Very High,290,29.4,Diabetic,63.0
+52,Other,185,60,Moderate,No,None,Normal,115,17.5,Non-diabetic,9.0
+61,Female,170,50,High,No,None,Normal,150,17.3,Prediabetic,35.0
+70,Other,178,50,High,No,Father,Normal,100,15.8,Non-diabetic,17.5
+49,Male,147,40,High,No,Mother,Normal,295,18.5,Diabetic,69.0
+22,Male,155,85,Low,Yes,None,Normal,200,35.4,Diabetic,63.0
+46,Female,150,75,Moderate,Yes,Father;Mother;Sister;Brother,Very High,165,33.3,Prediabetic,68.0
+43,Female,183,85,Low,No,Father,Normal,140,25.4,Prediabetic,43.5
+79,Female,157,50,Low,No,None,Normal,305,20.3,Diabetic,63.0
+55,Male,150,70,Low,No,Father,Very High,190,31.1,Prediabetic,48.5
+22,Female,173,60,Low,Yes,Mother,Normal,100,20.0,Non-diabetic,23.0
+61,Male,178,40,Not at All,No,Father,Normal,155,12.6,Prediabetic,47.5
+61,Male,175,90,Low,No,Mother,Very High,290,29.4,Diabetic,76.0
+52,Male,185,75,High,No,Father,Normal,185,21.9,Prediabetic,41.5
+64,Male,157,60,Low,Yes,Mother;Sister,Normal,245,24.3,Diabetic,81.75
+37,Female,152,55,Low,No,None,Normal,285,23.8,Diabetic,58.0
+28,Female,178,85,Moderate,No,Mother,Normal,205,26.8,Diabetic,64.0
+46,Male,178,65,Low,No,None,Elivated,120,20.5,Non-diabetic,12.0
+46,Male,165,45,Moderate,No,Father,Normal,285,16.5,Diabetic,66.5
+25,Female,168,60,Moderate,Yes,None,High,115,21.3,Non-diabetic,13.0
+40,Male,150,90,Low,No,Mother,Extremely High,135,40.0,Non-diabetic,23.0
+76,Male,175,100,High,No,Sister,Elivated,215,32.7,Diabetic,63.75
+76,Female,147,70,Moderate,No,Father;Mother;Brother,Normal,185,32.4,Prediabetic,56.25
+67,Female,165,80,Low,No,Sister,High,140,29.4,Prediabetic,43.75
+76,Male,175,100,Low,No,Father,Normal,255,32.7,Diabetic,70.5
+34,Female,150,85,Moderate,No,Father,Normal,290,37.8,Diabetic,62.5
+34,Female,178,40,Moderate,No,None,Normal,190,12.6,Prediabetic,30.0
+76,Male,157,100,Low,Yes,Mother;Father,Normal,220,40.6,Diabetic,85.5
+70,Female,188,85,Not at All,No,None,Normal,255,24.0,Diabetic,65.0
+28,Female,163,45,Low,No,Mother;Father,Normal,190,16.9,Prediabetic,50.5
+61,Female,191,55,Moderate,No,None,Normal,235,15.1,Diabetic,60.0
+73,Female,168,40,High,No,None,Normal,285,14.2,Diabetic,60.0
+76,Female,173,90,Moderate,No,None,Normal,225,30.1,Diabetic,60.0
+31,Female,175,85,Moderate,Yes,Father;Mother;Sister;Brother,Very High,255,27.8,Diabetic,88.0
+25,Female,175,85,Moderate,No,None,Normal,175,27.8,Prediabetic,29.0
+64,Female,152,85,Low,No,None,Elivated,185,36.8,Prediabetic,38.0
+61,Female,173,80,Moderate,No,Mother,Normal,290,26.7,Diabetic,69.0
+61,Female,147,75,Not at All,No,None,High,190,34.7,Prediabetic,43.0
+31,Male,175,55,Low,No,None,High,100,18.0,Non-diabetic,11.0
+46,Male,150,75,Moderate,No,None,Extremely High,260,33.3,Diabetic,64.0
+46,Female,152,80,Low,No,Father,Very High,280,34.6,Diabetic,73.5
+61,Male,193,75,Not at All,No,Father,High,225,20.1,Diabetic,75.5
+79,Male,165,90,Low,No,Father,Normal,110,33.1,Non-diabetic,20.5
+34,Female,152,45,Moderate,Yes,None,Normal,265,19.5,Diabetic,60.0
+37,Other,168,60,Moderate,No,Father;Mother;Sister;Brother,Normal,125,21.3,Non-diabetic,30.0
+76,Female,185,70,Not at All,No,Mother,Elivated,255,20.5,Diabetic,75.0
+52,Male,185,55,Low,No,None,High,240,16.1,Diabetic,65.0
+31,Male,155,45,Moderate,No,Father,Normal,175,18.7,Prediabetic,37.5
+64,Female,193,95,Not at All,Yes,Father,Normal,245,25.5,Diabetic,76.5
+55,Male,147,45,Moderate,No,Mother,Normal,295,20.8,Diabetic,69.0
+49,Male,147,75,Low,No,None,Elivated,120,34.7,Non-diabetic,12.0
+61,Male,150,40,High,No,Mother,High,195,17.8,Prediabetic,48.0
+64,Male,150,75,Low,No,Mother,Normal,155,33.3,Prediabetic,48.0
+31,Female,193,70,Not at All,Yes,None,Normal,140,18.8,Prediabetic,40.0
+37,Other,165,50,Moderate,No,Mother;Father,Very High,160,18.4,Prediabetic,51.5
+46,Female,160,60,Low,No,Mother;Father,High,210,23.4,Diabetic,82.5
+37,Male,180,85,Moderate,No,None,Normal,180,26.2,Prediabetic,29.0
+76,Male,150,75,Low,No,Father,Very High,115,33.3,Non-diabetic,24.5
+76,Female,191,50,Low,No,None,Normal,305,13.7,Diabetic,63.0
+73,Female,185,100,High,No,Mother,Normal,115,29.2,Non-diabetic,19.0
+76,Male,150,50,Moderate,No,Father;Brother,Normal,85,22.2,Non-diabetic,21.25
+40,Female,170,80,High,No,Father,Normal,195,27.7,Prediabetic,36.5
+46,Male,163,80,Low,No,Father,Very High,85,30.1,Non-diabetic,23.5
+37,Male,168,65,Low,No,Father,High,120,23.0,Non-diabetic,18.5
+58,Male,155,45,Low,Yes,Father,Normal,270,18.7,Diabetic,74.5
+73,Other,157,70,Moderate,Yes,None,Normal,240,28.4,Diabetic,64.0
+22,Male,147,100,Moderate,No,Sister,Normal,85,46.3,Non-diabetic,8.75
+58,Male,150,85,Low,No,Sister,High,125,37.8,Non-diabetic,18.75
+58,Female,191,40,Moderate,No,Father,Normal,300,11.0,Diabetic,66.5
+31,Male,152,55,Low,Yes,None,Normal,300,23.8,Diabetic,63.0
+70,Female,160,95,Low,No,None,Normal,95,37.1,Non-diabetic,13.0
+37,Male,183,85,Moderate,No,Father,Normal,300,25.4,Diabetic,61.5
+43,Female,185,80,Moderate,No,Mother,Normal,145,23.4,Prediabetic,44.0
+31,Female,191,50,Low,No,None,High,260,13.7,Diabetic,61.0
+43,Male,165,55,High,No,None,Normal,210,20.2,Diabetic,59.0
+22,Female,173,40,Low,No,Father;Brother,Very High,145,13.4,Prediabetic,48.25
+52,Female,168,100,Not at All,No,Sister,Normal,290,35.4,Diabetic,67.75
+31,Female,168,65,Moderate,No,None,Very High,235,23.0,Diabetic,59.0
+64,Male,147,50,Moderate,Yes,None,Normal,265,23.1,Diabetic,65.0
+40,Male,168,50,Moderate,No,None,Extremely High,210,17.7,Diabetic,60.0
+22,Female,155,100,Moderate,No,Father,Extremely High,170,41.6,Prediabetic,42.5
+31,Female,170,80,Low,No,Brother,Normal,270,27.7,Diabetic,60.75
+49,Male,152,55,Moderate,No,None,Elivated,115,23.8,Non-diabetic,9.0
+43,Male,160,70,Not at All,No,Mother,Very High,195,27.3,Prediabetic,52.0
+70,Male,165,55,Moderate,Yes,Mother,Normal,75,20.2,Non-diabetic,25.0
+79,Other,163,40,High,No,Father,High,100,15.1,Non-diabetic,20.5
+73,Female,147,100,Moderate,No,Father;Mother;Sister;Brother,Normal,265,46.3,Diabetic,85.0
+76,Male,170,90,Low,No,Mother,Very High,135,31.1,Non-diabetic,27.0
+76,Male,183,100,Low,No,Brother,Normal,215,29.9,Diabetic,65.75
+58,Female,185,60,Moderate,No,Brother,High,155,17.5,Prediabetic,40.75
+64,Female,168,75,Low,No,Father,Normal,200,26.6,Diabetic,69.5
+67,Male,178,50,Low,Yes,Mother;Sister,Normal,210,15.8,Diabetic,81.75
+52,Female,191,40,High,No,Father,Normal,235,11.0,Diabetic,66.5
+37,Male,168,70,Low,No,Father,Normal,250,24.8,Diabetic,65.5
+61,Male,160,45,Moderate,No,Father,Normal,185,17.6,Prediabetic,42.5
+76,Male,152,50,Not at All,No,None,High,190,21.6,Prediabetic,43.0
+55,Male,191,85,High,No,Father,Normal,185,23.3,Prediabetic,41.5
+73,Other,163,95,Moderate,No,Mother,Extremely High,175,35.8,Prediabetic,50.0
+37,Male,173,70,Moderate,No,Father;Brother,Normal,245,23.4,Diabetic,66.25
+52,Female,178,55,Not at All,No,Father,Elivated,225,17.4,Diabetic,71.5
+52,Female,191,45,Low,No,None,High,275,12.3,Diabetic,65.0
+52,Male,157,70,Moderate,No,None,Normal,95,28.4,Non-diabetic,8.0
+46,Male,178,95,Moderate,No,None,Normal,205,30.0,Diabetic,59.0
+22,Female,193,60,Low,No,None,Normal,75,16.1,Non-diabetic,8.0
+37,Male,150,85,Low,No,None,Elivated,145,37.8,Prediabetic,33.0
+67,Female,152,60,Not at All,No,None,Very High,75,26.0,Non-diabetic,18.0
+52,Female,183,55,Low,No,Father,High,195,16.4,Prediabetic,47.5
+67,Female,193,45,Not at All,Yes,Father,Normal,135,12.1,Non-diabetic,27.5
+25,Male,193,65,High,Yes,None,Normal,70,17.5,Non-diabetic,10.0
+64,Male,168,40,High,No,Brother,Elivated,190,14.2,Prediabetic,38.75
+73,Male,152,45,Not at All,No,Sister,Normal,225,19.5,Diabetic,68.75
+28,Female,163,100,Moderate,No,Father,Normal,250,37.6,Diabetic,62.5
+37,Male,168,45,Moderate,No,None,Extremely High,305,15.9,Diabetic,60.0
+22,Female,147,40,High,No,None,Very High,155,18.5,Prediabetic,34.0
+76,Male,147,55,Low,No,Father,High,145,25.5,Prediabetic,47.5
+79,Male,185,70,Low,No,Father,Very High,280,20.5,Diabetic,74.5
+22,Female,157,75,Not at All,Yes,Father,High,135,30.4,Non-diabetic,25.5
+43,Female,155,45,Low,Yes,Father,Extremely High,285,18.7,Diabetic,79.5
+34,Male,173,55,Moderate,No,None,Elivated,80,18.4,Non-diabetic,5.0
+25,Male,178,60,High,No,Mother,Normal,90,18.9,Non-diabetic,15.0
+28,Female,168,55,Moderate,No,Father,High,95,19.5,Non-diabetic,15.5
+49,Male,165,40,Moderate,No,None,Normal,155,14.7,Prediabetic,34.0
+49,Male,150,65,Not at All,No,Father;Sister,Normal,105,28.9,Non-diabetic,24.25
+22,Female,163,45,Low,Yes,None,High,280,16.9,Diabetic,66.0
+67,Male,150,85,Not at All,No,Father,High,225,37.8,Diabetic,75.5
+70,Male,160,60,Low,No,Mother;Father,High,290,23.4,Diabetic,83.5
+34,Female,147,50,Low,No,Father;Brother,Normal,250,23.1,Diabetic,69.25
+34,Female,170,85,Not at All,Yes,Mother,Normal,265,29.4,Diabetic,74.0
+34,Female,175,100,Moderate,No,None,Normal,255,32.7,Diabetic,55.0
+64,Female,191,55,Moderate,No,None,Normal,280,15.1,Diabetic,60.0
+55,Male,180,90,Moderate,No,Father,Very High,95,27.8,Non-diabetic,19.5
+40,Female,170,75,Low,No,Father,Normal,190,26.0,Prediabetic,39.5
+76,Male,160,90,Moderate,No,Father,Elivated,165,35.2,Prediabetic,42.5
+46,Female,191,90,Low,No,Brother,Normal,300,24.7,Diabetic,65.75
+40,Female,191,45,Low,No,None,Normal,125,12.3,Non-diabetic,8.0
+40,Female,152,90,Moderate,No,None,Elivated,245,39.0,Diabetic,55.0
+28,Female,175,70,Low,No,None,High,200,22.9,Diabetic,61.0
+61,Male,170,80,Not at All,No,Father,Elivated,265,27.7,Diabetic,71.5
+28,Female,157,75,Not at All,No,None,Normal,285,30.4,Diabetic,60.0
+25,Male,188,90,Moderate,No,Brother,Very High,215,25.5,Diabetic,61.75
+76,Male,150,60,Low,No,None,Normal,90,26.7,Non-diabetic,12.0
+61,Female,188,55,High,No,Sister,Elivated,90,15.6,Non-diabetic,13.75
+67,Female,188,75,Moderate,No,None,Normal,160,21.2,Prediabetic,35.0
+79,Female,191,45,Low,No,Father;Brother,Normal,125,12.3,Non-diabetic,24.25
+28,Male,168,50,Low,No,Brother,Normal,120,17.7,Non-diabetic,11.75
+73,Female,150,90,Moderate,No,None,High,295,40.0,Diabetic,63.0
+40,Female,173,95,Low,No,Father,High,250,31.7,Diabetic,68.5
+76,Male,175,70,Moderate,No,Father,Normal,245,22.9,Diabetic,67.5
+58,Female,193,90,Low,No,Father,Extremely High,125,24.2,Non-diabetic,24.5
+37,Male,173,50,Moderate,No,Father,High,105,16.7,Non-diabetic,15.5
+37,Female,150,40,Moderate,No,None,Normal,105,17.8,Non-diabetic,5.0
+34,Female,155,75,Low,No,None,Elivated,145,31.2,Prediabetic,33.0
+40,Female,193,90,Low,No,Mother,Normal,225,24.2,Diabetic,68.0
+67,Male,191,65,Low,No,Father;Mother;Sister;Brother,Normal,270,17.8,Diabetic,88.0
+37,Female,160,75,Moderate,No,Father,Normal,200,29.3,Diabetic,61.5
+25,Female,173,70,Not at All,No,Father,High,305,23.4,Diabetic,70.5
+31,Female,180,65,Moderate,No,Father;Brother,Normal,295,20.1,Diabetic,66.25
+76,Female,163,40,Not at All,No,Father,Normal,220,15.1,Diabetic,72.5
+76,Female,180,90,Low,No,Father,Normal,305,27.8,Diabetic,69.5
+37,Female,147,90,Moderate,No,None,Extremely High,200,41.6,Diabetic,60.0
+52,Male,147,50,Low,No,Brother,Normal,265,23.1,Diabetic,65.75
+46,Male,178,85,Moderate,Yes,Father,High,150,26.8,Prediabetic,48.5
+49,Male,178,90,Moderate,No,Father,Normal,225,28.4,Diabetic,65.5
+76,Male,160,55,Low,Yes,Sister,Very High,70,21.5,Non-diabetic,25.75
+22,Female,163,60,Moderate,No,Mother,High,80,22.6,Non-diabetic,18.0
+64,Male,175,90,Moderate,No,Father,Normal,300,29.4,Diabetic,66.5
+43,Male,157,80,Low,No,Father,Extremely High,70,32.5,Non-diabetic,24.5
+67,Male,178,55,Moderate,No,None,High,130,17.4,Non-diabetic,13.0
+43,Male,163,75,High,No,Father;Mother;Sister;Brother,Normal,255,28.2,Diabetic,83.0
+34,Female,165,70,Moderate,No,Father,Extremely High,165,25.7,Prediabetic,41.5
+61,Female,150,75,Moderate,No,Mother,Normal,220,33.3,Diabetic,70.0
+28,Female,178,40,Moderate,No,Father;Brother,Normal,185,12.6,Prediabetic,41.25
+22,Male,170,65,Moderate,No,Mother,Normal,305,22.5,Diabetic,65.0
+22,Female,175,75,Low,Yes,None,Normal,260,24.5,Diabetic,63.0
+31,Male,160,75,Moderate,No,Mother,Very High,195,29.3,Prediabetic,43.0
+76,Male,191,65,Low,No,Mother,High,185,17.8,Prediabetic,51.0
+40,Female,173,50,Moderate,No,Father;Sister,High,300,16.7,Diabetic,69.25
+37,Male,183,45,Moderate,No,None,Normal,240,13.4,Diabetic,55.0
+25,Female,155,45,Low,No,None,High,105,18.7,Non-diabetic,11.0
+34,Male,175,70,High,No,None,Normal,85,22.9,Non-diabetic,5.0
+37,Male,147,55,Moderate,No,Father,Elivated,80,25.5,Non-diabetic,11.5
+73,Male,188,50,Not at All,No,None,Very High,130,14.1,Non-diabetic,19.0
+58,Female,165,85,Moderate,No,None,Normal,80,31.2,Non-diabetic,9.0
+73,Male,168,100,Low,No,None,Normal,165,35.4,Prediabetic,38.0
+64,Male,175,50,Low,No,Father;Mother;Sister;Brother,Elivated,235,16.3,Diabetic,88.0
+34,Female,155,100,High,No,None,Normal,120,41.6,Non-diabetic,5.0
+22,Female,157,100,Low,No,None,Normal,170,40.6,Prediabetic,33.0
+58,Female,191,90,Low,Yes,Father,High,125,24.7,Non-diabetic,27.5
+46,Male,155,50,Not at All,No,Mother,Elivated,210,20.8,Diabetic,74.0
+37,Female,193,60,Low,No,Father,Normal,270,16.1,Diabetic,65.5
+64,Other,185,60,Moderate,No,None,Elivated,155,17.5,Prediabetic,35.0
+61,Female,180,55,Not at All,No,Mother,Very High,230,17.0,Diabetic,79.0
+49,Male,173,85,Not at All,No,None,Normal,100,28.4,Non-diabetic,13.0
+49,Female,157,95,Moderate,No,None,Normal,85,38.5,Non-diabetic,9.0
+43,Female,191,100,Low,No,Father,Very High,195,27.4,Prediabetic,47.5
+22,Male,180,100,Moderate,No,Father;Mother;Sister,Very High,295,30.9,Diabetic,80.25
+22,Female,193,75,Low,No,None,High,105,20.1,Non-diabetic,11.0
+25,Male,180,85,Moderate,No,None,High,150,26.2,Prediabetic,32.0
+46,Female,150,65,Moderate,Yes,None,Normal,90,28.9,Non-diabetic,13.0
+52,Male,160,60,Low,No,Father,Normal,170,23.4,Prediabetic,44.5
+40,Female,163,60,Moderate,No,Mother,High,100,22.6,Non-diabetic,18.0
+43,Male,165,95,Moderate,No,Father,Normal,195,34.9,Prediabetic,41.5
+28,Male,157,85,Low,No,Mother,Normal,270,34.5,Diabetic,68.0
+28,Female,155,100,Moderate,No,Father,Elivated,225,41.6,Diabetic,62.5
+31,Male,183,85,Low,No,Sister,Elivated,255,25.4,Diabetic,60.75
+61,Male,191,85,Low,No,Sister,Very High,95,23.3,Non-diabetic,20.75
+43,Female,150,40,Moderate,No,Sister,Normal,230,17.8,Diabetic,62.75
+73,Female,165,60,Moderate,No,Mother,Elivated,245,22.0,Diabetic,70.0
+46,Female,188,85,Moderate,No,None,Normal,170,24.0,Prediabetic,34.0
+28,Male,191,100,Not at All,No,None,Normal,235,27.4,Diabetic,59.0
+31,Male,150,55,Moderate,No,Brother,Normal,260,24.4,Diabetic,58.75
+55,Female,170,55,Low,No,None,Normal,240,19.0,Diabetic,62.0
+52,Male,185,45,Not at All,No,Father,High,260,13.1,Diabetic,74.5
+70,Female,180,50,Moderate,No,Father,Normal,70,15.4,Non-diabetic,17.5
+70,Male,160,90,Moderate,No,None,Elivated,145,35.2,Prediabetic,35.0
+61,Female,175,100,High,No,None,Normal,90,32.7,Non-diabetic,10.0
+79,Female,157,95,Low,No,Father,Very High,85,38.5,Non-diabetic,24.5
+58,Female,165,95,High,No,Father,High,75,34.9,Non-diabetic,19.5
+55,Female,152,85,Low,No,None,Normal,300,36.8,Diabetic,62.0
+43,Male,180,65,Not at All,No,Father,Elivated,300,20.1,Diabetic,71.5
+52,Male,147,85,Low,No,Father,Normal,105,39.3,Non-diabetic,19.5
+37,Female,163,75,Moderate,No,Mother,Normal,255,28.2,Diabetic,64.0
+73,Female,157,90,Low,No,Father,Normal,160,36.5,Prediabetic,45.5
+64,Female,147,45,Low,No,Father,Elivated,115,20.8,Non-diabetic,20.5
+40,Male,168,60,Low,No,Father;Brother,High,95,21.3,Non-diabetic,22.25
+61,Male,180,90,Moderate,No,None,Normal,90,27.8,Non-diabetic,9.0
+73,Female,155,45,Low,No,Mother,Normal,260,18.7,Diabetic,73.0
+52,Female,163,55,Moderate,Yes,None,Extremely High,120,20.7,Non-diabetic,19.0
+34,Female,165,75,Low,No,Father,Very High,270,27.5,Diabetic,68.5
+76,Female,170,85,Not at All,No,None,High,150,29.4,Prediabetic,42.0
+61,Male,160,95,Low,No,Father;Mother;Sister;Brother,Normal,200,37.1,Diabetic,88.0
+28,Female,147,40,Low,Yes,None,Normal,210,18.5,Diabetic,63.0
+58,Male,180,55,Low,No,Father,Elivated,70,17.0,Non-diabetic,19.5
+52,Male,165,95,Low,No,Father;Mother;Sister;Brother,Very High,305,34.9,Diabetic,91.0
+79,Female,188,100,Moderate,No,Father,Very High,255,28.3,Diabetic,70.5
+43,Male,188,70,Moderate,Yes,Father;Mother;Sister,Normal,190,19.8,Prediabetic,60.25
+70,Male,188,80,Moderate,No,Father,Normal,130,22.6,Non-diabetic,17.5
+43,Female,150,60,Low,No,None,High,275,26.7,Diabetic,64.0
+64,Male,188,75,Low,No,Mother,Normal,300,21.2,Diabetic,73.0
+25,Male,155,80,Moderate,Yes,Mother,Normal,255,33.3,Diabetic,70.0
+40,Male,157,70,Not at All,No,Father;Brother,Normal,210,28.4,Diabetic,70.25
+46,Male,191,40,Moderate,No,Father,Normal,95,11.0,Non-diabetic,16.5
+58,Male,178,40,Moderate,No,Sister,Normal,210,12.6,Diabetic,62.75
+73,Female,180,65,Moderate,Yes,Mother,Normal,165,20.1,Prediabetic,50.0
+67,Male,160,90,Not at All,No,Father,Normal,135,35.2,Non-diabetic,22.5
+73,Female,157,45,Low,No,None,Normal,305,18.3,Diabetic,63.0
+79,Male,185,70,Moderate,No,Father;Mother;Sister;Brother,Normal,170,20.5,Prediabetic,60.0
+43,Male,147,60,Moderate,No,Father;Mother;Sister;Brother,Normal,240,27.8,Diabetic,83.0
+52,Female,183,80,Moderate,No,Father,Elivated,105,23.9,Non-diabetic,16.5
+70,Other,147,90,Low,No,Father,Normal,225,41.6,Diabetic,70.5
+58,Male,183,95,Moderate,No,Father,High,220,28.4,Diabetic,68.5
+67,Male,152,70,Moderate,Yes,None,High,175,30.3,Prediabetic,43.0
+49,Female,155,50,Low,No,Mother,Normal,230,20.8,Diabetic,72.0
+28,Male,150,100,Moderate,No,None,Normal,260,44.4,Diabetic,55.0
+79,Female,180,100,Moderate,No,Mother;Father,Elivated,235,30.9,Diabetic,77.5
+52,Other,150,85,Moderate,No,None,High,75,37.8,Non-diabetic,12.0
+67,Female,191,65,High,No,None,Very High,290,17.8,Diabetic,64.0
+46,Female,188,55,Moderate,No,None,Elivated,75,15.6,Non-diabetic,9.0
+37,Male,183,60,Low,No,Father,Normal,240,17.9,Diabetic,65.5
+28,Male,152,95,Low,No,Father,High,280,41.1,Diabetic,68.5
+28,Female,173,80,Not at All,No,Father,High,180,26.7,Prediabetic,44.5
+52,Male,173,45,Moderate,No,Father,Normal,270,15.0,Diabetic,66.5
+49,Female,180,65,Moderate,No,None,Normal,145,20.1,Prediabetic,34.0
+25,Female,157,80,Low,No,Father,Normal,240,32.5,Diabetic,65.5
+76,Female,150,90,Moderate,No,Mother,Normal,80,40.0,Non-diabetic,20.0
+52,Male,155,60,Moderate,Yes,Father,Normal,240,25.0,Diabetic,70.5
+46,Male,191,100,Moderate,No,None,Normal,165,27.4,Prediabetic,33.0
+67,Female,155,40,Not at All,No,None,Normal,185,16.6,Prediabetic,40.0
+76,Female,168,90,High,No,Father,Normal,105,31.9,Non-diabetic,17.5
+55,Male,183,100,Moderate,No,Mother;Father,Elivated,235,29.9,Diabetic,75.5
+40,Female,188,85,Moderate,No,Father,Normal,100,24.0,Non-diabetic,12.5
+55,Male,185,80,Moderate,Yes,None,Normal,120,23.4,Non-diabetic,14.0
+52,Male,150,75,Moderate,No,None,Normal,270,33.3,Diabetic,59.0
+55,Female,183,45,Low,No,Father;Mother;Brother,Normal,295,13.4,Diabetic,83.25
+43,Female,160,45,Moderate,No,Mother,Elivated,205,17.6,Diabetic,69.0
+67,Female,155,45,Moderate,No,None,Normal,75,18.7,Non-diabetic,10.0
+37,Male,168,80,Moderate,No,None,Normal,270,28.3,Diabetic,54.0
+34,Female,193,90,Moderate,No,None,Normal,130,24.2,Non-diabetic,5.0
+31,Male,155,95,Low,No,Father,Normal,110,39.5,Non-diabetic,15.5
+46,Female,183,95,Low,No,Brother,Normal,95,28.4,Non-diabetic,14.75
+58,Male,193,95,High,No,Mother;Father,Elivated,115,25.5,Non-diabetic,25.5
+34,Female,147,95,Moderate,No,Father;Mother;Sister;Brother,High,255,44.0,Diabetic,83.0
+25,Other,170,55,Moderate,No,Father,Normal,160,19.0,Prediabetic,37.5
+55,Female,175,50,Low,Yes,None,Normal,155,16.3,Prediabetic,42.0
+58,Female,180,80,Moderate,No,Brother,Normal,260,24.7,Diabetic,62.75
+55,Male,168,65,Moderate,No,None,Normal,140,23.0,Prediabetic,34.0
+49,Male,193,100,Moderate,No,Mother;Father,Normal,90,26.8,Non-diabetic,25.5
+58,Male,180,85,Low,No,Father,Elivated,235,26.2,Diabetic,68.5
+25,Female,150,60,Moderate,No,None,Normal,255,26.7,Diabetic,54.0
+64,Female,170,55,Moderate,No,Father;Mother;Brother,Normal,305,19.0,Diabetic,81.25
+28,Male,188,50,Moderate,No,None,High,220,14.1,Diabetic,58.0
+58,Female,178,80,Moderate,No,None,Normal,230,25.2,Diabetic,58.0
+25,Female,178,95,Low,No,Mother,Normal,120,30.0,Non-diabetic,18.0
+49,Female,185,65,High,No,Father,Very High,270,19.0,Diabetic,70.5
+55,Female,168,95,Low,Yes,None,High,170,33.7,Prediabetic,45.0
+49,Female,170,45,Moderate,Yes,None,Normal,140,15.6,Prediabetic,39.0
+40,Female,193,75,Low,No,Sister,High,85,20.1,Non-diabetic,14.75
+46,Female,175,65,Low,Yes,None,Normal,105,21.2,Non-diabetic,17.0
+61,Other,191,60,Moderate,No,Father,High,145,16.4,Prediabetic,45.5
+64,Female,183,40,Not at All,No,Mother,Elivated,180,11.9,Prediabetic,50.0
+28,Male,180,70,Low,No,Father,Normal,110,21.6,Non-diabetic,15.5
+31,Female,160,65,Moderate,No,Father,Very High,125,25.4,Non-diabetic,15.5
+49,Male,185,90,Low,No,Father,High,290,26.3,Diabetic,71.5
+55,Male,160,40,Moderate,No,Father;Mother;Sister;Brother,High,305,15.6,Diabetic,87.0
+46,Other,165,85,Moderate,No,Sister,Normal,215,31.2,Diabetic,62.75
+58,Female,163,90,Low,No,None,Normal,105,33.9,Non-diabetic,12.0
+31,Male,165,60,Moderate,No,Mother,Very High,75,22.0,Non-diabetic,19.0
+55,Male,160,70,Low,No,None,Very High,210,27.3,Diabetic,65.0
+76,Female,157,45,Low,No,Sister,High,245,18.3,Diabetic,69.75
+34,Male,180,50,Not at All,No,Mother,High,200,15.4,Diabetic,73.0
+34,Other,173,100,Moderate,No,Father,Elivated,155,33.4,Prediabetic,37.5
+55,Female,165,45,Low,Yes,Father,Normal,145,16.5,Prediabetic,49.5
+43,Female,170,40,Moderate,No,Mother,Normal,90,13.8,Non-diabetic,19.0
+28,Female,150,95,Low,No,Father,Normal,110,42.2,Non-diabetic,15.5
+55,Male,150,65,Low,No,Father,Normal,260,28.9,Diabetic,68.5
+52,Female,185,85,Moderate,No,None,Normal,160,24.8,Prediabetic,34.0
+73,Female,183,55,Moderate,No,None,Normal,150,16.4,Prediabetic,35.0
+25,Female,157,55,Moderate,No,Sister,Very High,220,22.3,Diabetic,62.75
+76,Female,178,40,Moderate,No,None,Normal,300,12.6,Diabetic,60.0
+37,Female,160,60,Moderate,No,Father,Normal,270,23.4,Diabetic,62.5
+73,Other,160,65,Moderate,Yes,Mother,High,270,25.4,Diabetic,77.0
+79,Female,173,100,Not at All,No,Mother,Elivated,295,33.4,Diabetic,75.0
+73,Male,191,70,Moderate,No,Father,Normal,200,19.2,Diabetic,67.5
+40,Female,168,40,Moderate,No,Father,Elivated,205,14.2,Diabetic,62.5
+73,Male,152,75,Moderate,No,Mother,High,165,32.5,Prediabetic,48.0
+43,Male,155,90,Moderate,No,Mother;Sister,Normal,195,37.5,Prediabetic,47.75
+79,Male,188,75,Moderate,No,Mother;Father,Normal,210,21.2,Diabetic,77.5
+43,Male,170,45,High,No,None,Normal,295,15.6,Diabetic,59.0
+79,Female,168,65,Moderate,No,Sister,Very High,285,23.0,Diabetic,67.75
+40,Male,147,60,High,No,None,Normal,100,27.8,Non-diabetic,4.0
+67,Female,163,95,High,No,None,Elivated,245,35.8,Diabetic,60.0
+25,Male,170,45,Moderate,No,None,Normal,245,15.6,Diabetic,55.0
+22,Male,183,70,Low,No,Father;Mother;Sister;Brother,Normal,205,20.9,Diabetic,83.0
+31,Female,180,90,High,No,None,Normal,270,27.8,Diabetic,54.0
+31,Male,165,75,Moderate,No,Mother,High,305,27.5,Diabetic,67.0
+55,Male,170,75,Moderate,No,None,Normal,110,26.0,Non-diabetic,8.0
+79,Female,183,65,Moderate,No,Father,High,145,19.4,Prediabetic,45.5
+61,Male,147,90,Low,No,None,Normal,235,41.6,Diabetic,63.0
+64,Female,175,75,Low,No,None,Normal,295,24.5,Diabetic,63.0
+49,Male,152,95,Not at All,No,Father,Normal,70,41.1,Non-diabetic,21.5
+40,Female,175,100,Moderate,No,Mother,Normal,90,32.7,Non-diabetic,15.0
+43,Male,160,90,Not at All,No,Father,Normal,240,35.2,Diabetic,71.5
+64,Female,178,75,Moderate,No,Sister,Normal,85,23.7,Non-diabetic,13.75
+49,Male,163,65,Low,No,Father,Extremely High,175,24.5,Prediabetic,49.5
+61,Female,178,50,Moderate,No,Father,Normal,220,15.8,Diabetic,67.5
+55,Male,150,60,Low,No,Mother,Normal,115,26.7,Non-diabetic,21.0
+22,Male,191,80,Low,No,None,Normal,255,21.9,Diabetic,58.0
+61,Male,155,70,High,No,Sister,High,125,29.1,Non-diabetic,15.75
+43,Female,157,75,High,No,Mother,Normal,170,30.4,Prediabetic,44.0
+52,Female,147,55,Moderate,No,Brother,Normal,85,25.5,Non-diabetic,11.75
+67,Other,165,45,Moderate,Yes,Brother,Normal,135,16.5,Non-diabetic,18.75
+64,Male,157,80,Moderate,Yes,Brother,Normal,135,32.5,Non-diabetic,18.75
+22,Other,150,100,Low,No,None,Elivated,70,44.4,Non-diabetic,8.0
+61,Female,191,75,High,No,Father,Elivated,240,20.6,Diabetic,67.5
+22,Male,147,95,Low,Yes,Father,Elivated,105,44.0,Non-diabetic,20.5
+61,Female,152,40,Moderate,No,Father,Normal,110,17.3,Non-diabetic,17.5
+76,Male,191,60,Low,No,Mother,Normal,155,16.4,Prediabetic,48.0
+46,Female,157,75,Not at All,No,Mother,Normal,70,30.4,Non-diabetic,24.0
+79,Male,147,85,Low,No,Father,Normal,135,39.3,Non-diabetic,20.5
+40,Male,175,80,Not at All,No,Mother,Normal,150,26.1,Prediabetic,44.0
+79,Male,150,50,Not at All,No,Father,Normal,115,22.2,Non-diabetic,22.5
+31,Female,180,95,Moderate,No,Father;Mother;Sister;Brother,Normal,210,29.3,Diabetic,79.0
+40,Female,163,75,Moderate,No,None,Elivated,205,28.2,Diabetic,54.0
+25,Male,173,45,High,No,None,Normal,95,15.0,Non-diabetic,5.0
+28,Female,183,40,High,No,Mother,Elivated,150,11.9,Prediabetic,40.0
+64,Male,188,80,Moderate,No,Father;Mother;Brother,Normal,105,22.6,Non-diabetic,31.25
+49,Male,165,85,Moderate,No,Father,Normal,270,31.2,Diabetic,66.5
+55,Male,147,70,Low,No,None,Elivated,140,32.4,Prediabetic,37.0
+64,Male,185,90,Not at All,No,None,High,75,26.3,Non-diabetic,17.0
+61,Male,170,95,Low,No,Father;Mother;Brother,Very High,225,32.9,Diabetic,88.25
+25,Male,183,85,Not at All,Yes,Mother,Extremely High,190,25.4,Prediabetic,54.0
+64,Male,147,70,Moderate,No,Mother;Father,Normal,190,32.4,Prediabetic,52.5
+58,Male,160,75,Low,No,Father,Normal,115,29.3,Non-diabetic,18.5
+25,Female,155,100,Moderate,No,None,Extremely High,95,41.6,Non-diabetic,10.0
+28,Female,152,50,High,No,Father,Extremely High,190,21.6,Prediabetic,42.5
+37,Male,193,95,High,No,Father,Elivated,225,25.5,Diabetic,61.5
+31,Male,188,50,Low,No,None,Normal,265,14.1,Diabetic,58.0
+37,Female,157,40,Low,No,Father,Normal,90,16.2,Non-diabetic,15.5
+64,Male,147,100,Moderate,No,None,Very High,160,46.3,Prediabetic,39.0
+73,Male,150,60,High,No,Mother,Normal,280,26.7,Diabetic,69.0
+43,Other,193,40,Low,No,None,Normal,220,10.7,Diabetic,62.0
+58,Male,173,65,Moderate,No,None,Normal,210,21.7,Diabetic,59.0
+43,Male,183,90,Low,No,Father;Mother;Sister;Brother,Normal,175,26.9,Prediabetic,61.0
+49,Male,168,85,Moderate,No,None,Normal,250,30.1,Diabetic,59.0
+73,Male,168,85,Moderate,No,Father;Mother;Sister;Brother,High,260,30.1,Diabetic,88.0
+40,Male,180,80,Moderate,No,None,Normal,280,24.7,Diabetic,55.0
+58,Male,168,85,Moderate,No,Father,Normal,245,30.1,Diabetic,66.5
+43,Male,147,65,Low,No,Mother,Normal,145,30.1,Prediabetic,47.0
+43,Male,170,50,High,No,None,Very High,185,17.3,Prediabetic,38.0
+46,Male,170,85,Low,No,Mother,Normal,85,29.4,Non-diabetic,21.0
+73,Male,193,40,Low,No,Father,Very High,210,10.7,Diabetic,74.5
+67,Female,160,95,Low,No,Mother;Sister,Normal,190,37.1,Prediabetic,51.75
+34,Female,175,85,Low,No,None,Normal,305,27.8,Diabetic,57.0
+52,Male,150,100,Moderate,No,Father,Very High,290,44.4,Diabetic,70.5
+46,Male,178,55,Moderate,No,Sister,High,85,17.4,Non-diabetic,15.75
+58,Other,152,80,Moderate,No,None,Elivated,140,34.6,Prediabetic,34.0
+34,Male,155,50,Moderate,No,None,High,295,20.8,Diabetic,58.0
+28,Male,185,55,Moderate,No,Brother,Normal,220,16.1,Diabetic,58.75
+64,Female,178,100,Low,No,None,Elivated,190,31.6,Prediabetic,38.0
+31,Female,170,100,Moderate,No,Mother,Normal,190,34.6,Prediabetic,40.0
+31,Male,188,95,Low,No,None,Normal,160,26.9,Prediabetic,32.0
+70,Male,165,60,Moderate,No,None,Normal,220,22.0,Diabetic,60.0
+73,Female,193,40,Moderate,No,None,High,205,10.7,Diabetic,63.0
+49,Female,155,70,Low,No,Mother,Normal,265,29.1,Diabetic,71.0
+58,Male,183,45,High,No,None,Very High,175,13.4,Prediabetic,38.0
+70,Female,193,85,Low,Yes,Father,Normal,90,22.8,Non-diabetic,25.5
+73,Male,168,100,Low,No,Father,Elivated,180,35.4,Prediabetic,45.5
+67,Female,150,85,Low,No,None,Normal,135,37.8,Non-diabetic,13.0
+37,Female,178,50,Low,No,None,Normal,85,15.8,Non-diabetic,8.0
+22,Male,157,90,Moderate,No,Brother,High,215,36.5,Diabetic,61.75
+34,Male,193,90,Moderate,No,Father,Normal,80,24.2,Non-diabetic,12.5
+76,Male,152,80,Low,No,None,Very High,110,34.6,Non-diabetic,17.0
+67,Female,188,55,Not at All,No,Father,Elivated,110,15.6,Non-diabetic,22.5
+55,Female,175,60,Moderate,No,Father,High,115,19.6,Non-diabetic,19.5
+22,Female,168,65,Low,No,Father,Normal,270,23.0,Diabetic,65.5
+31,Male,173,40,Moderate,No,Mother;Father,Very High,260,13.4,Diabetic,76.5
+28,Female,155,90,Moderate,No,None,Elivated,260,37.5,Diabetic,55.0
+25,Other,165,50,Low,No,None,Extremely High,290,18.4,Diabetic,63.0
+34,Female,188,60,Moderate,Yes,None,Normal,255,17.0,Diabetic,60.0
+79,Male,147,70,Moderate,No,Father,High,200,32.4,Diabetic,70.5
+43,Female,188,90,Not at All,No,Father,High,145,25.5,Prediabetic,48.5
+37,Female,170,70,Low,No,Father,High,100,24.2,Non-diabetic,18.5
+52,Other,188,55,Low,No,Mother;Father,Normal,145,15.6,Prediabetic,54.5
+40,Male,170,65,High,No,None,Extremely High,180,22.5,Prediabetic,35.0
+49,Male,160,90,Low,No,Father,Normal,150,35.2,Prediabetic,44.5
+76,Female,147,60,Moderate,No,None,Normal,145,27.8,Prediabetic,34.0
+64,Male,188,95,Low,No,None,Normal,210,26.9,Diabetic,62.0
+49,Male,175,80,Low,No,None,Normal,235,26.1,Diabetic,61.0
+40,Male,170,70,High,No,Father,Normal,145,24.2,Prediabetic,37.5
+34,Female,155,90,Not at All,No,Mother,Normal,210,37.5,Diabetic,70.0
+46,Male,170,100,High,No,Father;Brother,Elivated,120,34.6,Non-diabetic,20.25
+67,Male,175,50,High,No,None,Normal,160,16.3,Prediabetic,35.0
+25,Female,175,95,Moderate,Yes,None,Normal,210,31.0,Diabetic,60.0
+55,Female,165,70,Moderate,No,None,Normal,205,25.7,Diabetic,58.0
+79,Male,191,70,Moderate,No,None,Very High,285,19.2,Diabetic,64.0
+31,Male,188,75,Moderate,No,None,Normal,165,21.2,Prediabetic,30.0
+31,Male,185,60,Moderate,No,None,Normal,270,17.5,Diabetic,55.0
+64,Other,193,90,Low,No,None,Normal,110,24.2,Non-diabetic,13.0
+76,Male,170,90,Moderate,No,None,Normal,215,31.1,Diabetic,60.0
+46,Female,178,80,Moderate,No,Father,High,260,25.2,Diabetic,68.5
+76,Female,150,90,Low,No,None,Extremely High,145,40.0,Prediabetic,43.0
+52,Male,157,70,Moderate,Yes,None,Elivated,125,28.4,Non-diabetic,13.0
+34,Female,178,60,Low,No,None,Normal,195,18.9,Prediabetic,33.0
+43,Male,155,90,Not at All,Yes,Father,Extremely High,295,37.5,Diabetic,81.5
+52,Female,168,90,Moderate,No,None,Normal,305,31.9,Diabetic,59.0
+37,Male,173,90,Moderate,No,Mother,Normal,170,30.1,Prediabetic,40.0
+73,Male,185,65,Low,No,None,Normal,220,19.0,Diabetic,63.0
+34,Male,165,75,Moderate,No,None,Very High,215,27.5,Diabetic,58.0
+73,Male,173,40,Moderate,Yes,Mother,Normal,235,13.4,Diabetic,75.0
+67,Female,188,40,Low,No,Father,Normal,145,11.3,Prediabetic,45.5
+64,Female,178,55,Low,No,None,Normal,285,17.4,Diabetic,63.0
+61,Female,170,85,Not at All,No,Mother,Elivated,260,29.4,Diabetic,74.0
+79,Other,157,50,Moderate,No,Father,Normal,230,20.3,Diabetic,67.5
+73,Male,191,95,Moderate,No,None,Normal,120,26.0,Non-diabetic,9.0
+79,Other,180,100,Low,No,Father,Normal,175,30.9,Prediabetic,45.5
+58,Female,157,55,Moderate,No,None,Very High,175,22.3,Prediabetic,38.0
+58,Male,160,85,Low,Yes,None,Normal,70,33.2,Non-diabetic,17.0
+37,Female,150,95,High,No,Father,High,285,42.2,Diabetic,65.5
+64,Male,160,50,Low,No,None,Normal,105,19.5,Non-diabetic,13.0
+73,Female,173,90,Moderate,No,Father;Sister,High,115,30.1,Non-diabetic,24.25
+25,Female,155,100,Not at All,No,Father;Brother,Normal,185,41.6,Prediabetic,46.25
+58,Male,168,95,Moderate,No,Father,Normal,230,33.7,Diabetic,66.5
+55,Female,165,75,Moderate,No,Father,Normal,275,27.5,Diabetic,65.5
+64,Male,185,100,Low,No,Father,Normal,110,29.2,Non-diabetic,19.5
+70,Female,188,100,Not at All,No,None,High,290,28.3,Diabetic,67.0
+64,Female,175,85,High,No,Mother;Father,Normal,170,27.8,Prediabetic,51.5
+58,Female,152,80,Moderate,No,Father,Normal,270,34.6,Diabetic,66.5
+37,Female,150,85,Low,No,Brother,Extremely High,115,37.8,Non-diabetic,16.75
+34,Female,155,80,Low,No,Father,Very High,135,33.3,Non-diabetic,19.5
+31,Male,165,45,Moderate,No,Mother,Normal,80,16.5,Non-diabetic,15.0
+28,Female,147,80,Moderate,No,Father,Normal,265,37.0,Diabetic,62.5
+73,Female,155,80,Low,No,None,Normal,155,33.3,Prediabetic,38.0
+73,Male,170,70,Not at All,No,Father,Normal,185,24.2,Prediabetic,47.5
+40,Female,152,85,Moderate,No,None,High,245,36.8,Diabetic,58.0
+61,Female,173,70,Low,No,Father,Normal,150,23.4,Prediabetic,45.5
+22,Male,193,100,Low,No,Father,Normal,100,26.8,Non-diabetic,14.5
+55,Female,160,100,Not at All,No,None,Elivated,265,39.1,Diabetic,64.0
+64,Female,185,60,Moderate,No,None,Elivated,170,17.5,Prediabetic,35.0
+55,Male,191,65,Low,No,Mother;Sister,Normal,200,17.8,Diabetic,75.75
+46,Female,193,90,Low,No,None,Normal,150,24.2,Prediabetic,37.0
+67,Female,173,65,Not at All,No,None,Normal,170,21.7,Prediabetic,40.0
+28,Female,180,80,Moderate,No,Mother,Normal,135,24.7,Non-diabetic,15.0
+64,Male,178,70,Not at All,No,None,Normal,220,22.1,Diabetic,65.0
+40,Female,157,45,Low,No,None,Normal,75,18.3,Non-diabetic,8.0
+67,Male,163,85,Not at All,No,None,Extremely High,260,32.0,Diabetic,70.0
+79,Male,180,80,High,No,None,Very High,85,24.7,Non-diabetic,14.0
+46,Female,155,95,Moderate,No,Mother,High,245,39.5,Diabetic,72.0
+37,Male,163,100,Low,No,None,Normal,185,37.6,Prediabetic,33.0
+55,Male,168,85,High,No,Father,Normal,240,30.1,Diabetic,66.5
+49,Female,188,60,Low,No,Brother,High,170,17.0,Prediabetic,43.75
+76,Female,180,85,Low,No,Sister,High,290,26.2,Diabetic,68.75
+73,Male,163,75,Moderate,No,None,High,190,28.2,Prediabetic,37.0
+73,Male,147,100,Not at All,Yes,None,Normal,80,46.3,Non-diabetic,20.0
+70,Other,168,85,Moderate,Yes,None,Normal,290,30.1,Diabetic,65.0
+67,Female,175,60,Moderate,No,Father,Normal,280,19.6,Diabetic,67.5
+40,Male,178,90,Moderate,Yes,Mother,Normal,225,28.4,Diabetic,69.0
+34,Male,163,45,Low,No,Father;Brother,Elivated,190,16.9,Prediabetic,44.25
+46,Other,150,80,Not at All,No,Father;Mother;Sister;Brother,Normal,230,35.6,Diabetic,89.0
+49,Male,168,90,Moderate,No,Father,Normal,185,31.9,Prediabetic,41.5
+70,Male,180,100,Low,No,Father,High,245,30.9,Diabetic,73.5
+61,Female,173,65,High,No,Mother,Normal,115,21.7,Non-diabetic,20.0
+52,Male,178,95,Low,No,Mother,Very High,230,30.0,Diabetic,76.0
+40,Male,180,40,Moderate,No,Father;Brother,Elivated,100,12.3,Non-diabetic,16.25
+55,Female,168,65,Moderate,No,Father,Normal,260,23.0,Diabetic,66.5
+31,Female,160,100,Low,No,Father;Brother,Normal,280,39.1,Diabetic,69.25
+25,Male,160,75,Low,No,Mother,Normal,205,29.3,Diabetic,67.0
+79,Male,191,65,High,No,None,High,170,17.8,Prediabetic,38.0
+76,Male,188,95,High,No,None,Normal,115,26.9,Non-diabetic,9.0
+73,Male,155,60,Low,No,Father,Normal,270,25.0,Diabetic,69.5
+67,Female,152,95,Moderate,No,None,Elivated,85,41.1,Non-diabetic,10.0
+55,Female,173,90,Moderate,No,None,Very High,225,30.1,Diabetic,63.0
+31,Female,178,65,Low,No,Father,Elivated,215,20.5,Diabetic,65.5
+61,Male,191,40,Moderate,Yes,Father,Elivated,80,11.0,Non-diabetic,22.5
+46,Female,152,45,Low,Yes,None,Normal,110,19.5,Non-diabetic,17.0
+52,Male,160,70,Low,No,Mother;Father,Normal,70,27.3,Non-diabetic,28.5
+64,Female,157,40,Low,No,Father;Mother;Sister;Brother,Normal,260,16.2,Diabetic,88.0
+79,Male,180,40,Not at All,No,Mother;Father,Elivated,305,12.3,Diabetic,82.5
+52,Male,178,90,High,No,Mother,Normal,120,28.4,Non-diabetic,18.0
+67,Male,168,100,Moderate,No,Father,High,185,35.4,Prediabetic,45.5
+70,Male,178,65,Moderate,No,Father,Elivated,210,20.5,Diabetic,67.5
+31,Male,185,40,Low,Yes,None,Extremely High,150,11.7,Prediabetic,43.0
+58,Male,183,45,Moderate,No,Mother;Sister,Very High,75,13.4,Non-diabetic,26.75
+34,Male,180,80,Low,No,Father,Normal,220,24.7,Diabetic,65.5
+40,Male,152,100,Moderate,No,Mother;Brother,High,125,43.3,Non-diabetic,21.75
+40,Male,175,95,Low,No,Father,Normal,80,31.0,Non-diabetic,15.5
+22,Male,147,60,Moderate,No,None,Normal,150,27.8,Prediabetic,29.0
+73,Male,188,75,Low,No,None,Normal,295,21.2,Diabetic,63.0
+40,Female,165,65,High,No,Mother,Normal,150,23.9,Prediabetic,40.0
+34,Female,152,75,Low,No,None,Normal,300,32.5,Diabetic,58.0
+31,Male,173,95,Low,No,Mother,Very High,130,31.7,Non-diabetic,22.0
+64,Male,170,70,Low,Yes,Father,Normal,205,24.2,Diabetic,75.5
+55,Female,160,50,Not at All,Yes,Mother,Normal,280,19.5,Diabetic,79.0
+28,Male,175,100,Low,No,Mother,Very High,160,32.7,Prediabetic,47.0
+70,Male,173,70,Moderate,No,None,High,185,23.4,Prediabetic,38.0
+49,Female,152,70,Low,No,Mother,Very High,230,30.3,Diabetic,76.0
+73,Male,150,65,Moderate,No,Father;Brother,High,240,28.9,Diabetic,73.25
+46,Male,163,100,Moderate,Yes,Father,Normal,270,37.6,Diabetic,71.5
+79,Female,147,100,Low,No,None,Normal,145,46.3,Prediabetic,38.0
+25,Male,165,55,Moderate,Yes,Father,High,210,20.2,Diabetic,70.5
+28,Male,180,65,Moderate,No,Father,High,185,20.1,Prediabetic,40.5
+34,Male,155,75,Not at All,No,Mother,High,200,31.2,Diabetic,73.0
+73,Male,193,80,Low,No,Mother;Father,Normal,300,21.5,Diabetic,80.5
+58,Female,165,65,Low,No,None,Normal,295,23.9,Diabetic,62.0
+52,Female,183,60,Moderate,No,None,High,135,17.9,Non-diabetic,12.0
+79,Male,170,70,Moderate,No,None,Normal,225,24.2,Diabetic,60.0
+52,Male,193,90,Moderate,No,Mother;Brother,Very High,155,24.2,Prediabetic,51.75
+76,Male,152,65,Moderate,Yes,None,Normal,85,28.1,Non-diabetic,14.0
+79,Female,150,80,Moderate,No,Father,High,235,35.6,Diabetic,70.5
+79,Male,152,50,Low,No,Father;Brother,High,195,21.6,Prediabetic,52.25
+70,Male,150,85,Moderate,No,None,Normal,110,37.8,Non-diabetic,10.0
+28,Female,147,50,High,No,Mother,Normal,280,23.1,Diabetic,65.0
+22,Female,185,90,Not at All,No,Father;Mother;Sister;Brother,Normal,125,26.3,Non-diabetic,34.0
+25,Female,160,85,Moderate,No,None,Normal,175,33.2,Prediabetic,30.0
+46,Male,157,40,Low,No,None,Normal,100,16.2,Non-diabetic,12.0
+22,Male,165,65,Low,No,None,Normal,110,23.9,Non-diabetic,8.0
+73,Female,157,85,Low,No,Mother,Normal,160,34.5,Prediabetic,48.0
+58,Female,152,90,Low,Yes,Father,Normal,270,39.0,Diabetic,74.5
+40,Other,178,85,Low,No,Mother,Very High,275,26.8,Diabetic,71.0
+28,Other,183,95,Moderate,No,Father,Normal,85,28.4,Non-diabetic,11.5
+70,Other,183,80,Moderate,Yes,Father,High,90,23.9,Non-diabetic,25.5
+49,Male,185,80,Low,No,Father,Normal,265,23.4,Diabetic,69.5
+76,Male,160,95,High,No,Mother,Normal,245,37.1,Diabetic,70.0
+73,Female,178,55,Low,No,None,Extremely High,70,17.4,Non-diabetic,18.0
+55,Female,165,100,Moderate,No,None,Very High,290,36.7,Diabetic,63.0
+34,Male,173,100,High,No,None,Elivated,170,33.4,Prediabetic,30.0
+73,Female,147,40,Low,No,None,Normal,75,18.5,Non-diabetic,13.0
+58,Male,150,85,Moderate,No,Brother,Normal,230,37.8,Diabetic,62.75
+67,Male,170,45,Moderate,No,None,Normal,295,15.6,Diabetic,60.0
+46,Female,173,85,Moderate,No,None,High,305,28.4,Diabetic,61.0
+40,Male,175,95,Moderate,No,Father,Elivated,145,31.0,Prediabetic,37.5
+67,Female,193,95,Low,No,None,Normal,90,25.5,Non-diabetic,12.0
+52,Male,152,50,Low,No,Mother,Normal,250,21.6,Diabetic,72.0
+31,Female,191,50,Moderate,No,Father,Normal,95,13.7,Non-diabetic,12.5
+79,Male,165,80,Moderate,No,None,Normal,165,29.4,Prediabetic,34.0
+37,Male,170,95,Not at All,No,Mother,Normal,140,32.9,Prediabetic,45.0
+61,Male,165,75,Low,No,None,High,110,27.5,Non-diabetic,15.0
+49,Male,157,85,Not at All,No,None,Elivated,200,34.5,Diabetic,64.0
+61,Male,165,80,Moderate,No,Mother,Normal,300,29.4,Diabetic,69.0
+28,Female,180,80,Moderate,Yes,Mother;Brother,Elivated,75,24.7,Non-diabetic,23.75
+31,Female,152,65,Low,No,None,Very High,180,28.1,Prediabetic,36.0
+64,Male,163,60,Low,No,None,Normal,130,22.6,Non-diabetic,13.0
+64,Female,147,80,High,No,Father,Normal,280,37.0,Diabetic,67.5
+55,Other,173,40,Moderate,No,Father,Normal,155,13.4,Prediabetic,41.5
+55,Female,175,65,Low,No,Mother;Father,Normal,120,21.2,Non-diabetic,29.5
+64,Male,185,60,Low,No,Father,Normal,235,17.5,Diabetic,70.5
+55,Male,191,75,Low,No,None,High,120,20.6,Non-diabetic,15.0
+43,Female,157,60,Not at All,No,Mother,Normal,255,24.3,Diabetic,74.0
+64,Female,152,55,Moderate,No,Mother,Normal,140,23.8,Prediabetic,45.0
+28,Male,191,65,Moderate,Yes,None,Very High,290,17.8,Diabetic,64.0
+64,Female,175,85,Low,No,Father,Elivated,100,27.8,Non-diabetic,19.5
+76,Female,157,75,Moderate,No,Father,Normal,75,30.4,Non-diabetic,17.5
+28,Male,188,40,Not at All,Yes,None,Normal,205,11.3,Diabetic,65.0
+49,Female,157,40,Low,No,Father,Elivated,275,16.2,Diabetic,69.5
+73,Female,157,90,Moderate,No,Mother,Normal,285,36.5,Diabetic,70.0
+43,Female,191,75,Low,No,Father,Normal,205,20.6,Diabetic,69.5
+64,Female,175,95,Low,No,None,Very High,110,31.0,Non-diabetic,17.0
+58,Female,188,95,Moderate,No,None,Normal,295,26.9,Diabetic,58.0
+49,Female,163,70,High,Yes,Brother,Normal,105,26.3,Non-diabetic,16.75
+76,Female,163,85,Moderate,No,Father,Normal,95,32.0,Non-diabetic,17.5
+52,Male,178,80,Moderate,No,Father,Normal,200,25.2,Diabetic,65.5
+31,Male,193,45,Low,No,None,Normal,185,12.1,Prediabetic,33.0
+73,Male,168,65,Low,No,None,High,290,23.0,Diabetic,66.0
+70,Other,165,100,Moderate,No,None,Normal,295,36.7,Diabetic,60.0
+58,Female,152,65,Not at All,Yes,None,Normal,170,28.1,Prediabetic,43.0
+49,Female,173,90,Not at All,No,None,High,135,30.1,Non-diabetic,17.0
+64,Female,178,100,Low,No,Mother,Extremely High,135,31.6,Non-diabetic,28.0
+40,Male,180,85,Moderate,No,None,Normal,285,26.2,Diabetic,54.0
+22,Female,152,55,Low,No,Mother,Normal,260,23.8,Diabetic,68.0
+46,Male,152,95,Low,No,Father,Normal,80,41.1,Non-diabetic,19.5
+37,Male,185,65,Moderate,No,Mother,Very High,245,19.0,Diabetic,69.0
+40,Female,180,90,Moderate,No,Father,Normal,200,27.8,Diabetic,61.5
+70,Female,147,90,Low,No,None,Normal,180,41.6,Prediabetic,38.0
+31,Male,170,80,Moderate,No,None,Normal,200,27.7,Diabetic,54.0
+73,Female,173,75,Low,No,None,Elivated,155,25.1,Prediabetic,37.0
+70,Male,155,80,Moderate,No,None,Normal,195,33.3,Prediabetic,35.0
+40,Female,185,40,Moderate,No,Father,Normal,295,11.7,Diabetic,62.5
+76,Male,168,55,Moderate,No,Father,Normal,250,19.5,Diabetic,67.5
+52,Female,185,85,Low,No,Father;Mother;Sister,High,105,24.8,Non-diabetic,36.25
+79,Male,183,95,Not at All,Yes,None,Normal,260,28.4,Diabetic,69.0
+64,Other,183,50,Moderate,No,Mother,Very High,170,14.9,Prediabetic,49.0
+28,Male,188,95,Moderate,No,None,High,265,26.9,Diabetic,57.0
+37,Male,160,80,Not at All,No,Sister,High,180,31.2,Prediabetic,41.75
+58,Female,173,95,Moderate,No,None,High,200,31.7,Diabetic,62.0
+52,Female,180,45,Moderate,No,None,Normal,140,13.9,Prediabetic,34.0
+79,Other,150,65,Low,No,Sister,Normal,280,28.9,Diabetic,65.75
+46,Female,180,45,Moderate,No,None,Normal,215,13.9,Diabetic,59.0
+58,Female,160,100,Not at All,No,None,Elivated,150,39.1,Prediabetic,39.0
+67,Male,188,75,Low,No,None,High,125,21.2,Non-diabetic,16.0
+40,Female,178,85,High,Yes,None,Normal,135,26.8,Non-diabetic,9.0
+76,Female,157,100,Low,Yes,None,Normal,105,40.6,Non-diabetic,18.0
+64,Female,150,80,Moderate,Yes,Father,Normal,155,35.6,Prediabetic,47.5
+28,Male,163,90,Not at All,Yes,Mother,Normal,170,33.9,Prediabetic,50.0
+22,Female,185,65,Low,No,None,Normal,180,19.0,Prediabetic,33.0
+22,Male,183,90,Moderate,No,Mother;Brother,Normal,85,26.9,Non-diabetic,17.75
+43,Female,178,65,Low,No,None,Elivated,80,20.5,Non-diabetic,12.0
+55,Female,165,70,Moderate,No,Father;Sister,Normal,160,25.7,Prediabetic,44.25
+64,Male,163,65,Low,No,None,Normal,205,24.5,Diabetic,63.0
+64,Female,185,40,Moderate,No,None,Normal,215,11.7,Diabetic,60.0
+70,Male,183,95,Not at All,No,Mother,Very High,120,28.4,Non-diabetic,28.0
+52,Male,173,75,High,No,Father;Mother;Sister,High,165,25.1,Prediabetic,57.25
+73,Male,168,60,Low,No,None,Normal,275,21.3,Diabetic,63.0
+31,Male,185,100,Moderate,No,Father,Normal,180,29.2,Prediabetic,36.5
+34,Male,188,55,Moderate,No,Sister,Normal,100,15.6,Non-diabetic,8.75
+61,Female,155,60,Not at All,No,Father,Normal,110,25.0,Non-diabetic,21.5
+37,Other,183,70,Moderate,No,Sister,Normal,90,20.9,Non-diabetic,8.75
+64,Female,183,75,High,Yes,None,Normal,220,22.4,Diabetic,65.0
+70,Female,165,85,Moderate,Yes,None,Normal,130,31.2,Non-diabetic,15.0
+64,Male,163,60,Low,No,Mother,Normal,240,22.6,Diabetic,73.0
+22,Female,170,55,Moderate,No,Father,Normal,125,19.0,Non-diabetic,12.5
+73,Male,160,45,Not at All,No,Mother,High,85,17.6,Non-diabetic,28.0
+64,Female,180,60,Not at All,Yes,Father,Normal,125,18.5,Non-diabetic,27.5
+25,Male,163,95,Moderate,No,Father,Normal,290,35.8,Diabetic,62.5
+58,Female,152,55,Moderate,No,Mother,Normal,120,23.8,Non-diabetic,19.0
+31,Male,173,60,Not at All,No,None,Very High,255,20.0,Diabetic,64.0
+58,Other,180,40,Moderate,No,Mother,High,280,12.3,Diabetic,72.0
+49,Female,185,95,Moderate,No,Sister,Elivated,145,27.8,Prediabetic,36.75
+37,Female,165,75,Low,No,Father;Mother;Brother,Normal,160,27.5,Prediabetic,53.25
+22,Male,178,50,Low,No,Mother,Normal,175,15.8,Prediabetic,43.0
+64,Female,160,100,Moderate,No,Father,Normal,255,39.1,Diabetic,67.5
+46,Female,170,80,Moderate,No,Mother;Father,Normal,245,27.7,Diabetic,75.5
+28,Female,160,65,Moderate,No,Father,Elivated,255,25.4,Diabetic,61.5
+52,Female,193,55,Moderate,No,Father,Normal,215,14.8,Diabetic,66.5
+34,Female,173,100,Low,No,None,Very High,195,33.4,Prediabetic,37.0
+79,Female,163,40,Moderate,No,Brother,Normal,255,15.1,Diabetic,63.75
+22,Male,165,85,Low,No,Brother,Elivated,245,31.2,Diabetic,61.75
+64,Female,165,85,High,No,Brother,Elivated,260,31.2,Diabetic,63.75
+70,Female,183,90,Low,No,Father,Very High,250,26.9,Diabetic,73.5
+40,Male,188,85,Low,No,Father,Very High,180,24.0,Prediabetic,44.5
+64,Other,155,90,Not at All,No,Mother,Normal,245,37.5,Diabetic,75.0
+67,Female,157,85,High,No,Brother,Normal,115,34.5,Non-diabetic,13.75
+76,Male,160,70,Low,No,Father,Very High,85,27.3,Non-diabetic,23.5
+37,Other,160,80,High,No,None,Extremely High,75,31.2,Non-diabetic,10.0
+25,Female,152,55,Moderate,No,None,Normal,150,23.8,Prediabetic,30.0
+67,Female,180,85,Low,No,None,Normal,270,26.2,Diabetic,62.0
+76,Female,183,85,Moderate,No,Brother,Elivated,195,25.4,Prediabetic,37.75
+31,Male,150,55,Not at All,No,Mother,Normal,295,24.4,Diabetic,70.0
+49,Female,178,90,Not at All,No,Sister,Normal,255,28.4,Diabetic,66.75
+76,Female,155,100,Low,No,Sister,Elivated,135,41.6,Non-diabetic,16.75
+67,Female,152,80,Low,No,None,Normal,250,34.6,Diabetic,63.0
+34,Female,163,75,Moderate,No,None,Elivated,145,28.2,Prediabetic,29.0
+34,Male,188,80,High,No,None,Elivated,300,22.6,Diabetic,55.0
+55,Other,173,60,High,No,None,High,225,20.0,Diabetic,62.0
+55,Female,183,45,Not at All,No,Father;Mother;Brother,Very High,260,13.4,Diabetic,89.25
+34,Female,178,95,Moderate,Yes,Father,Normal,225,30.0,Diabetic,67.5
+40,Male,175,70,Low,No,None,Normal,210,22.9,Diabetic,58.0
+28,Male,152,95,Moderate,No,Father,Normal,190,41.1,Prediabetic,37.5
+22,Male,178,95,Moderate,No,None,Normal,125,30.0,Non-diabetic,5.0
+25,Male,178,45,Moderate,Yes,Mother,High,220,14.2,Diabetic,73.0
+22,Male,150,70,Moderate,No,None,Very High,180,31.1,Prediabetic,34.0
+73,Male,160,80,Moderate,No,Father,Normal,220,31.2,Diabetic,67.5
+67,Male,168,90,High,No,None,Normal,75,31.9,Non-diabetic,10.0
+22,Male,175,90,Not at All,No,Mother;Brother,Normal,100,29.4,Non-diabetic,22.75
+37,Male,168,60,Low,No,None,Elivated,300,21.3,Diabetic,58.0
+37,Female,170,90,Low,No,Father,Very High,115,31.1,Non-diabetic,19.5
+46,Male,180,100,Moderate,No,None,High,150,30.9,Prediabetic,37.0
+22,Female,147,90,High,No,None,Elivated,145,41.6,Prediabetic,30.0
+46,Female,168,70,Low,No,None,High,245,24.8,Diabetic,65.0
+49,Male,180,40,High,No,Father;Mother;Sister,Elivated,175,12.3,Prediabetic,55.25
+67,Male,175,40,Low,No,None,High,225,13.1,Diabetic,66.0
+64,Male,180,75,Low,No,Father,Normal,190,23.1,Prediabetic,45.5
+37,Female,173,95,Moderate,No,None,High,105,31.7,Non-diabetic,8.0
+43,Other,147,90,Moderate,No,None,Normal,300,41.6,Diabetic,59.0
+55,Male,165,60,Moderate,No,Brother,Very High,110,22.0,Non-diabetic,16.75
+64,Female,188,85,Low,Yes,Father,High,250,24.0,Diabetic,78.5
+40,Male,191,50,Low,No,Brother,Normal,235,13.7,Diabetic,61.75
+61,Female,163,95,Low,No,Father,Normal,235,35.8,Diabetic,70.5
+58,Male,152,40,Moderate,No,Brother,Normal,235,17.3,Diabetic,62.75
+70,Male,188,80,Moderate,No,Father,Normal,85,22.6,Non-diabetic,17.5
+67,Female,155,80,Low,No,Mother,Normal,145,33.3,Prediabetic,48.0
+70,Male,165,80,Not at All,No,None,Normal,90,29.4,Non-diabetic,14.0
+25,Male,188,75,Low,No,None,Very High,270,21.2,Diabetic,62.0
+28,Male,155,60,High,No,Brother,Very High,110,25.0,Non-diabetic,11.75
+58,Female,147,40,Moderate,No,Brother,Normal,230,18.5,Diabetic,62.75
+49,Female,178,80,Not at All,No,Father,Normal,165,25.2,Prediabetic,45.5
+58,Female,185,100,High,No,Mother,High,155,29.2,Prediabetic,46.0
+67,Female,152,50,High,No,Father,High,270,21.6,Diabetic,70.5
+25,Female,193,45,Low,No,Father,Normal,245,12.1,Diabetic,65.5
+76,Male,168,80,Low,No,None,Normal,235,28.3,Diabetic,62.0
+55,Female,160,100,Moderate,No,Sister,Very High,75,39.1,Non-diabetic,16.75
+79,Male,150,50,Moderate,No,Father;Mother;Sister,Very High,80,22.2,Non-diabetic,35.25
+43,Female,152,80,High,No,Father,High,175,34.6,Prediabetic,44.5
+46,Male,155,45,Moderate,No,Mother,High,160,18.7,Prediabetic,47.0
+70,Male,168,100,Moderate,No,Father,Normal,125,35.4,Non-diabetic,17.5
+67,Female,157,70,Not at All,No,None,Normal,130,28.4,Non-diabetic,14.0
+64,Male,191,70,Moderate,No,None,Normal,100,19.2,Non-diabetic,10.0
+37,Male,178,95,Moderate,No,Father,Normal,120,30.0,Non-diabetic,12.5
+61,Female,155,65,Moderate,No,Brother,Elivated,80,27.1,Non-diabetic,12.75
+73,Female,152,55,Low,No,Father,Normal,265,23.8,Diabetic,70.5
+67,Female,173,80,Low,No,None,Elivated,225,26.7,Diabetic,62.0
+25,Female,155,75,Moderate,No,None,Very High,70,31.2,Non-diabetic,9.0
+61,Male,168,95,High,No,None,High,200,33.7,Diabetic,63.0
+67,Other,175,65,Moderate,No,None,Normal,255,21.2,Diabetic,60.0
+70,Male,165,45,Moderate,No,None,Normal,295,16.5,Diabetic,60.0
+28,Female,163,45,High,No,Brother,Normal,250,16.9,Diabetic,58.75
+22,Female,178,60,Not at All,No,Father;Sister,Normal,270,18.9,Diabetic,71.25
+31,Female,152,45,Moderate,No,Father,Normal,225,19.5,Diabetic,62.5
+28,Other,155,70,Not at All,No,None,Normal,150,29.1,Prediabetic,34.0
+79,Other,175,85,Low,No,None,Normal,205,27.8,Diabetic,62.0
+73,Male,150,40,High,No,Father,Normal,215,17.8,Diabetic,67.5
+76,Other,163,40,Low,No,Father,Normal,260,15.1,Diabetic,70.5
+73,Female,147,90,Low,Yes,Mother;Brother,Normal,235,41.6,Diabetic,81.75
+28,Male,180,45,Moderate,No,Father,Normal,265,13.9,Diabetic,62.5
+61,Male,165,55,Low,No,Father,Normal,305,20.2,Diabetic,70.5
+37,Female,191,60,Low,No,Father,Normal,240,16.4,Diabetic,65.5
+46,Female,173,75,Moderate,No,None,Elivated,305,25.1,Diabetic,58.0
+55,Male,155,80,Moderate,No,None,Normal,215,33.3,Diabetic,59.0
+49,Female,173,70,Moderate,No,None,Elivated,255,23.4,Diabetic,59.0
+46,Female,173,95,Low,No,None,High,95,31.7,Non-diabetic,15.0
+70,Male,175,50,Moderate,No,None,High,170,16.3,Prediabetic,38.0
+22,Male,185,55,Moderate,No,None,Normal,95,16.1,Non-diabetic,5.0
+28,Male,170,70,Low,No,None,Normal,80,24.2,Non-diabetic,8.0
+76,Male,160,50,Moderate,No,None,Elivated,70,19.5,Non-diabetic,10.0
+79,Female,155,75,Moderate,No,Father,Normal,260,31.2,Diabetic,67.5
+46,Female,168,85,Not at All,No,Mother,High,150,30.1,Prediabetic,52.0
+61,Male,168,45,Low,No,Father;Mother;Sister;Brother,Normal,280,15.9,Diabetic,88.0
+67,Female,147,85,Moderate,No,Mother,Elivated,170,39.3,Prediabetic,45.0
+40,Female,178,45,Low,Yes,Father;Mother;Sister;Brother,Elivated,140,14.2,Prediabetic,63.0
+25,Male,191,85,Moderate,No,None,Normal,165,23.3,Prediabetic,30.0
+70,Female,157,65,High,No,Father,High,175,26.4,Prediabetic,44.5
+34,Male,170,40,Low,No,Father,Normal,180,13.8,Prediabetic,40.5
+79,Female,160,65,Moderate,No,Father,Normal,235,25.4,Diabetic,66.5
+73,Male,150,40,High,No,Brother,Very High,215,17.8,Diabetic,67.75
+31,Female,183,65,Moderate,No,None,Elivated,235,19.4,Diabetic,55.0
+22,Male,180,80,Moderate,No,Father,Normal,200,24.7,Diabetic,62.5
+43,Male,163,55,Not at All,No,Father,High,180,20.7,Prediabetic,49.5
+76,Female,191,90,Low,No,None,Normal,290,24.7,Diabetic,63.0
+79,Male,191,95,Low,No,Father,Normal,165,26.0,Prediabetic,44.5
+70,Other,175,100,Low,Yes,None,Normal,260,32.7,Diabetic,68.0
+22,Male,170,60,Not at All,No,None,Normal,95,20.8,Non-diabetic,10.0
+40,Male,165,85,Low,No,Brother,Normal,225,31.2,Diabetic,61.75
+22,Female,175,80,Moderate,No,Father,High,140,26.1,Prediabetic,39.5
+58,Male,193,85,Moderate,No,Father;Mother;Sister;Brother,Very High,105,22.8,Non-diabetic,38.0
+52,Male,168,55,Moderate,No,None,Normal,230,19.5,Diabetic,59.0
+31,Male,168,95,Moderate,No,Mother,Normal,210,33.7,Diabetic,65.0
+67,Male,155,50,Not at All,Yes,Mother,Normal,170,20.8,Prediabetic,55.0
+79,Male,160,95,Not at All,No,Father,Normal,100,37.1,Non-diabetic,22.5
+34,Female,178,85,Moderate,No,None,Elivated,70,26.8,Non-diabetic,4.0
+58,Female,191,70,Moderate,No,Father,High,215,19.2,Diabetic,69.5
+22,Male,163,95,Low,No,None,Very High,205,35.8,Diabetic,62.0
+64,Female,147,90,Low,No,Brother,Normal,210,41.6,Diabetic,66.75
+25,Female,163,40,Moderate,No,Father,Normal,75,15.1,Non-diabetic,12.5
+46,Female,152,55,Moderate,No,None,Extremely High,180,23.8,Prediabetic,39.0
+73,Other,155,70,Low,No,None,Normal,235,29.1,Diabetic,62.0
+25,Female,183,60,Moderate,No,Father;Mother;Brother,Normal,275,17.9,Diabetic,76.25
+64,Female,178,75,Not at All,No,Father;Mother;Brother,Extremely High,210,23.7,Diabetic,91.25
+73,Male,191,80,Low,Yes,Mother,Normal,290,21.9,Diabetic,78.0
+79,Male,160,40,High,No,None,Very High,285,15.6,Diabetic,64.0
+64,Other,188,70,Moderate,No,Mother,High,295,19.8,Diabetic,73.0
+25,Male,178,85,High,No,Mother,Normal,190,26.8,Prediabetic,39.0
+46,Female,185,65,Moderate,No,Father,High,95,19.0,Non-diabetic,19.5
+73,Female,165,75,Low,No,None,Normal,195,27.5,Prediabetic,37.0
+58,Female,165,70,Moderate,Yes,Mother,Normal,140,25.7,Prediabetic,48.0
+28,Male,168,50,Low,No,Father,Normal,145,17.7,Prediabetic,40.5
+76,Male,163,55,Moderate,No,Father,Normal,205,20.7,Diabetic,67.5
+31,Male,152,60,Low,No,Father,Very High,100,26.0,Non-diabetic,18.5
+70,Male,180,90,Moderate,No,Father;Mother;Brother,Normal,185,27.8,Prediabetic,55.25
+28,Male,188,80,Low,No,Father,Elivated,130,22.6,Non-diabetic,15.5
+46,Male,185,95,Low,No,Father,High,110,27.8,Non-diabetic,21.5
+67,Female,188,70,Moderate,No,None,Normal,180,19.8,Prediabetic,35.0
+76,Male,173,95,Not at All,No,None,High,210,31.7,Diabetic,68.0
+67,Female,170,65,Not at All,No,Father,High,255,22.5,Diabetic,75.5
+58,Female,170,45,Moderate,No,Mother,High,300,15.6,Diabetic,72.0
+40,Female,163,45,Not at All,No,Father,Normal,110,16.9,Non-diabetic,17.5
+73,Female,191,65,Low,Yes,Mother;Father,Normal,280,17.8,Diabetic,85.5
+25,Female,168,70,Low,No,None,Normal,295,24.8,Diabetic,58.0
+22,Female,165,100,Low,No,None,Elivated,140,36.7,Prediabetic,33.0
+40,Female,185,85,Low,No,Father,Normal,290,24.8,Diabetic,65.5
+64,Male,152,75,Low,Yes,Father;Mother;Brother,Normal,275,32.5,Diabetic,89.25
+22,Male,193,80,Moderate,No,None,Elivated,280,21.5,Diabetic,55.0
+40,Male,165,90,Moderate,No,None,Extremely High,195,33.1,Prediabetic,35.0
+61,Male,163,90,Moderate,No,Father,High,100,33.9,Non-diabetic,20.5
+64,Female,191,95,Not at All,No,None,Normal,255,26.0,Diabetic,64.0
+22,Male,157,70,Moderate,No,Brother,Normal,260,28.4,Diabetic,57.75
+46,Male,168,95,Moderate,No,None,Elivated,215,33.7,Diabetic,59.0
+43,Female,168,60,Not at All,No,Mother,Extremely High,115,21.3,Non-diabetic,29.0
+40,Female,150,55,High,Yes,None,High,220,24.4,Diabetic,63.0
+40,Male,188,40,Low,No,Mother,Normal,290,11.3,Diabetic,68.0
+40,Female,168,75,Moderate,No,Father,Normal,245,26.6,Diabetic,61.5
+37,Female,170,75,Low,No,None,Normal,180,26.0,Prediabetic,32.0
+58,Male,180,100,Not at All,No,Mother;Sister,Elivated,245,30.9,Diabetic,77.75
+43,Female,152,50,Low,No,Father,Normal,170,21.6,Prediabetic,44.5
+52,Male,157,45,High,No,None,Normal,220,18.3,Diabetic,59.0
+76,Female,170,90,Low,No,None,Normal,160,31.1,Prediabetic,38.0
+73,Female,147,45,Moderate,Yes,None,Normal,175,20.8,Prediabetic,40.0
+61,Male,152,85,Moderate,No,Mother,Normal,160,36.8,Prediabetic,45.0
+52,Female,157,65,Moderate,No,None,Normal,185,26.4,Prediabetic,33.0
+55,Male,183,60,Low,No,Father,High,115,17.9,Non-diabetic,22.5
+25,Male,147,50,Moderate,No,None,Normal,300,23.1,Diabetic,55.0
+37,Female,160,70,Moderate,Yes,Father,Normal,75,27.3,Non-diabetic,16.5
+76,Female,150,60,Moderate,No,None,Very High,275,26.7,Diabetic,63.0
+52,Female,180,95,Low,No,None,Normal,90,29.3,Non-diabetic,11.0
+43,Male,193,75,Moderate,No,None,Normal,125,20.1,Non-diabetic,9.0
+58,Female,191,100,Low,No,Father,Normal,280,27.4,Diabetic,68.5
+64,Male,180,95,Not at All,No,Father,Normal,295,29.3,Diabetic,71.5
+64,Female,150,45,Low,No,None,Normal,165,20.0,Prediabetic,38.0
+73,Female,147,80,Moderate,No,Mother;Father,High,300,37.0,Diabetic,80.5
+49,Male,155,65,Low,Yes,None,Normal,245,27.1,Diabetic,66.0
+28,Female,152,75,Moderate,No,None,Elivated,290,32.5,Diabetic,55.0
+40,Male,157,45,Moderate,No,None,Very High,210,18.3,Diabetic,59.0
+28,Male,165,85,Moderate,Yes,Brother,High,150,31.2,Prediabetic,41.75
+76,Female,175,80,Low,No,Father,Normal,275,26.1,Diabetic,69.5
+52,Male,193,55,Not at All,No,None,High,150,14.8,Prediabetic,42.0
+49,Other,170,75,Moderate,No,Mother,Normal,105,26.0,Non-diabetic,18.0
+34,Male,170,55,Moderate,No,None,Normal,80,19.0,Non-diabetic,5.0
+34,Female,193,70,Moderate,No,Mother,Normal,260,18.8,Diabetic,65.0
+64,Female,180,60,Low,No,None,Elivated,260,18.5,Diabetic,63.0
+25,Female,183,85,High,No,Brother,Normal,275,25.4,Diabetic,57.75
+73,Male,165,100,Moderate,Yes,Father,High,230,36.7,Diabetic,75.5
+46,Female,185,90,Moderate,Yes,Father,Normal,170,26.3,Prediabetic,45.5
+40,Female,170,90,Low,No,None,Very High,120,31.1,Non-diabetic,12.0
+43,Male,193,45,Low,No,Father,Elivated,265,12.1,Diabetic,69.5
+49,Female,163,95,Moderate,No,Father,Normal,260,35.8,Diabetic,66.5
+49,Female,150,50,Moderate,No,None,Normal,280,22.2,Diabetic,59.0
+34,Male,193,60,Low,No,None,Elivated,285,16.1,Diabetic,58.0
+61,Male,165,85,Low,No,None,Very High,230,31.2,Diabetic,67.0
+43,Male,165,85,High,No,Mother,Very High,250,31.2,Diabetic,73.0
+58,Female,147,95,Moderate,No,Father,Extremely High,140,44.0,Prediabetic,46.5
+76,Male,170,95,Moderate,No,Mother,Normal,305,32.9,Diabetic,70.0
+25,Female,155,75,High,No,Brother,Elivated,200,31.2,Diabetic,58.75
+40,Male,188,75,Moderate,No,Father,Normal,210,21.2,Diabetic,62.5
+64,Male,155,60,High,No,Father,Normal,300,25.0,Diabetic,66.5
+61,Male,168,40,Moderate,No,None,Normal,270,14.2,Diabetic,60.0
+28,Male,185,95,Moderate,No,None,Normal,240,27.8,Diabetic,54.0
+31,Female,188,65,Moderate,Yes,Father,Normal,130,18.4,Non-diabetic,17.5
+43,Female,183,65,Low,No,Mother,Extremely High,130,19.4,Non-diabetic,27.0
